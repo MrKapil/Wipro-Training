@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\shared\\_productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\shared\\_productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\services\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\services\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\advanced razor page\\advanced razor page\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BAE1E48-C97D-4891-868E-4B5259533BB1}|Advanced Razor Page\\Advanced Razor Page.csproj|solutionrelative:advanced razor page\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ProductSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Shared\\_ProductSummary.cshtml",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Shared\\_ProductSummary.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Shared\\_ProductSummary.cshtml",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Shared\\_ProductSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T03:21:27.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Details.cshtml",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Products\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T11:42:44.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Startup.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Startup.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Startup.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Startup.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T03:19:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T03:17:37.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:44:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Models\\Product.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T03:07:14.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Program.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Program.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T03:22:12.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T03:18:15.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Products\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Products\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:46:01.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:47:07.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:45:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Products\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T11:42:27.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T05:46:33.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T03:37:02.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InMemoryProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Services\\InMemoryProductRepository.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Services\\InMemoryProductRepository.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Services\\InMemoryProductRepository.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Services\\InMemoryProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T03:09:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Services\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Services\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Services\\IProductRepository.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Services\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T03:09:21.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Models\\Category.cs",
+              "RelativeToolTip": "Advanced Razor Page\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T03:07:40.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Advanced Razor Page\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\Advanced Razor Page\\Advanced Razor Page\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Advanced Razor Page\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T03:36:43.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

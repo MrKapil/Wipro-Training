@@ -1,0 +1,4 @@
+wwwroot\error.html
+wwwroot\index.html
+wwwroot\app.js
+wwwroot\styles.css

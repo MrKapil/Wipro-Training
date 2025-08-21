@@ -1,0 +1,13 @@
+<p>student-details works!</p>
+
+<h2>Student details</h2>
+
+@for (stud of students; track stud.id){
+    <div>
+        id: {{ stud.id }}, name: {{ stud.name }}, marks: {{ stud.marks }}
+    </div>
+}
+@empty {
+<div>No Student found.!</div>
+}
+

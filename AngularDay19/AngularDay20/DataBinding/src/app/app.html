@@ -1,0 +1,33 @@
+<h3>Different Binding tpes in angular</h3>
+
+<p>Interpolation</p>
+
+<h5>
+  Addition of 3 and 5 with
+  Interpolation is{{3+5}}
+</h5>
+<h5>
+  Additionof 3 and 5 without 
+  Interpolation is 3+5
+</h5>
+
+<p>welcome, {{name}}</p>
+<p>Your age is, {{age}}</p>
+
+<p>===============================</p>
+<p>Property Binding</p>
+
+
+<button [style.height.px]="btnheight" [style.width.px]="btnwidth">Click Me</button>
+<p>================================</p>
+
+<p>Event Binding</p>
+<button (click)="addProduct()">Add Product</button>
+<p>=================================</p>
+
+<input [value]="firstname" (input)="firstname = $event.target.value" />
+<p>welcome, {{firstname}}</p>
+
+<p>====================</p>
+
+<input type="text" [(ngModel)]="firstname" />

@@ -1,0 +1,40 @@
+﻿@page "{id:int}"
+@model AdvancedRazorPages.Pages.Products.DetailsModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Product Details</title>
+</head>
+<body>
+    @if (Model.Product is null)
+    {
+        <p>Product not found.</p>
+    }
+    else
+    {
+        <h2>@Model.Product.Name</h2>
+        <p>@Model.Product.Description</p>
+        <p>
+            <strong>Categories:</strong>
+            @if (Model.Product.Categories?.Any() == true)
+            {
+                for (int i = 0; i < Model.Product.Categories.Count; i++)
+                {
+                    var c = Model.Product.Categories[i];
+                    <a asp-page="/Categories/Index" asp-route-name="@c.Name">@c.Name</a>
+                    @(i < Model.Product.Categories.Count - 1 ? ", " : "")
+                }
+            }
+            else
+            {
+                <span>(none)</span>
+            }
+        </p>
+        <p><a asp-page="/Products/Index">Back to list</a></p>
+    }
+</body>
+</html>

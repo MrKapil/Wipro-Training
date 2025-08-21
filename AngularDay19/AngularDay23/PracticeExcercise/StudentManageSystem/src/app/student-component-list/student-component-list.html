@@ -1,0 +1,14 @@
+<h2>Student List</h2>
+
+<div *ngIf="students.length > 0; else noData">
+  <div *ngFor="let stud of students; let i = index">
+    ID: {{ stud.id }}, Name: {{ stud.name }}, Marks: {{ stud.marks }}
+    <button (click)="deleteStudent(i)">Delete</button>
+    <button (click)="editStudent(stud)">Edit</button>
+  </div>
+</div>
+
+<ng-template #noData>
+  <div>No Student found!</div>
+</ng-template>
+

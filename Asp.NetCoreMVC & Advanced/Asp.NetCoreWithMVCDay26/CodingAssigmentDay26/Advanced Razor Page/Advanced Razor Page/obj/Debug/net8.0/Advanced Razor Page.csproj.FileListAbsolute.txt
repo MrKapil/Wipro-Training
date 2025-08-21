@@ -1,0 +1,34 @@
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.AssemblyInfoInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.AssemblyInfo.cs
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.csproj.CoreCompileInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.RazorAssemblyInfo.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.RazorAssemblyInfo.cs
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.sourcelink.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\appsettings.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\Advanced Razor Page.staticwebassets.runtime.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\Advanced Razor Page.staticwebassets.endpoints.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\Advanced Razor Page.exe
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\Advanced Razor Page.deps.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\Advanced Razor Page.runtimeconfig.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\Advanced Razor Page.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\bin\Debug\net8.0\Advanced Razor Page.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\scopedcss\bundle\Advanced Razor Page.styles.css
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\scopedcss\projectbundle\Advanced Razor Page.bundle.scp.css
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\refint\Advanced Razor Page.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\Advanced Razor Page.genruntimeconfig.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\ref\Advanced Razor Page.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\CodingAssigmentDay26\Advanced Razor Page\Advanced Razor Page\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

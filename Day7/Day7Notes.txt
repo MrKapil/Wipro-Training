@@ -1,0 +1,11 @@
+//Delegate - It is type safe that hold a reference to a method 
+// DelegateName my1 = new DelegateName(Print);
+
+//Admin delegate Is responsible generating a invoice;
+
+//Admin a = new Admin(Invoice);
+//A delegate also allows methods to be passed as a parameters and invoked dynamically(at runtime)
+//It is used to implement event handling
+
+
+//Syntax   AccessSpecifier delegate void delegate_name(paramater_list)

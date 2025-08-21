@@ -1,0 +1,50 @@
+@model List<EcommerceApp.Models.CartItem>
+@{
+    ViewData["Title"] = "Your Cart";
+    Layout = "_Layout";
+}
+<h2>Your Cart</h2>
+
+@if (Model.Count == 0)
+{
+    <p>No items yet. <a href="/products">Go shopping</a>.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr><th>Product</th><th>Price</th><th>Qty</th><th>Subtotal</th><th></th></tr>
+        </thead>
+        <tbody>
+        @foreach (var it in Model)
+        {
+            <tr>
+                <td>@it.Name</td>
+                <td>₹ @it.UnitPrice</td>
+                <td>
+                    <form asp-action="Update" method="post" class="inline">
+                        <input type="hidden" name="id" value="@it.ProductId" />
+                        <input type="number" name="qty" min="1" max="99" value="@it.Quantity" />
+                        <button type="submit">Update</button>
+                    </form>
+                </td>
+                <td>₹ @it.Subtotal</td>
+                <td>
+                    <form asp-action="Remove" method="post" class="inline">
+                        <input type="hidden" name="id" value="@it.ProductId" />
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="right"><b>Total</b></td>
+                <td colspan="2"><b>₹ @Model.Sum(x => x.Subtotal)</b></td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <a class="btn" href="/Order/Checkout">Place the Order</a>
+}

@@ -1,0 +1,12 @@
+<p>details works!</p>
+
+<p>select item: {{ product:name }}</p>
+<p>
+    Quantity:
+    <input type="number" min="1" [value]="product.quantity"
+    (input)="updateQuantity($event.target.value)" />
+</p>
+<p>Pri per Unit: {{ product.price }}</p>
+<p>Total price: {{ product.totalPrice }}</p>
+
+<button (click)="proceedBilling"> Go To Billing</button>

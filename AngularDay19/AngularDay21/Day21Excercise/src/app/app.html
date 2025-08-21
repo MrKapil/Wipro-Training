@@ -1,0 +1,12 @@
+<h1>Products Store</h1>
+
+<app-Products (productSelected)="onProductSelected($event)"></app-Products>
+<hr>
+<app-details *ngIf="selectedProduct && !billingData"
+[product]="selectedProduct" (goToBilling)="onBilling($event)">
+</app-details>
+
+<hr>
+<app-billing *ngIf="billingData" [details]="billingData">
+
+</app-billing>

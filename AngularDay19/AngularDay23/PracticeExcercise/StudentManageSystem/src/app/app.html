@@ -1,0 +1,45 @@
+<h1>Student Management System</h1>
+<hr>
+
+<!-- ADD -->
+<h3>Add Student</h3>
+<label>ID: <input type="number" [(ngModel)]="addId"></label>
+<label>Name: <input type="text" [(ngModel)]="addName"></label>
+<label>Marks: <input type="number" [(ngModel)]="addMarks"></label>
+<button (click)="addStudent()">Add</button>
+
+<hr>
+
+<!-- DELETE -->
+<h3>Delete Student</h3>
+<label>ID: <input type="number" [(ngModel)]="delId"></label>
+<button (click)="deleteStudent()">Delete</button>
+
+<hr>
+
+<!-- MODIFY -->
+<h3>Modify Student</h3>
+<label>ID: <input type="number" [(ngModel)]="editId"></label>
+<label>New Name: <input type="text" [(ngModel)]="editName"></label>
+<label>New Marks: <input type="number" [(ngModel)]="editMarks"></label>
+<button (click)="modifyStudent()">Modify</button>
+
+<hr>
+
+<!-- LIST -->
+<h3>Student List</h3>
+<table border="1" cellpadding="6">
+  <thead>
+    <tr><th>ID</th><th>Name</th><th>Marks</th></tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let s of students">
+      <td>{{ s.id }}</td>
+      <td>{{ s.name }}</td>
+      <td>{{ s.marks }}</td>
+    </tr>
+    <tr *ngIf="students.length === 0">
+      <td colspan="3">No Student found!</td>
+    </tr>
+  </tbody>
+</table>

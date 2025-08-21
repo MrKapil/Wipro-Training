@@ -1,0 +1,14 @@
+h1{
+    font-family: cursive 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: blue;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: brown;
+}
+.Wipro{
+    font-weight: bold;
+    text-decoration: underline;
+}

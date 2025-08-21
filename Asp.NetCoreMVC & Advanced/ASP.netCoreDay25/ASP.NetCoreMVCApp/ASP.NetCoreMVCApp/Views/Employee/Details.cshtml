@@ -1,0 +1,65 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model ASP.NetCoreMVCApp.Models.Employee
+
+<h1> Welcome To Employww Controller Page</h1><br />
+
+@* Please try Examples on for loop, while loop, do while loop,switch in razer sysntaxex
+    also declare array and display the data*@
+
+@{
+    for (int i = 0; i <= 10; i++)
+    {
+        <p>value of i (for loop) is @i</p>
+    }
+
+    int j = 0;
+    while (j < 10)
+    {
+        <p>value of j (while loop) is @j</p>
+        j++;
+    }
+
+    <h2>Example Of Do_while loop</h2> <br />
+    int k = 0;
+    do
+    {
+        <p> value of k (do_while loop) is @k</p>
+
+    }while(k>10);
+
+    <h2>Switch Case</h2><br />
+
+   
+}
+
+
+<h1> Employee details : </h1>
+<br />
+<p> Employee id is @Model.Empid</p>
+<p> Employee Fname is @Model.Fname</p>
+<p> Employee Lname is @Model.Lname</p>
+<p> Employee city is @Model.city</p>
+
+<html>
+    <head>
+        <title> Employee Details :</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAq6z5l5d5e5d5e5d5e5d5e5d5e5d" crossorigin="anonymous">
+        <style>
+            body{
+                background-color:antiquewhite;
+             }
+                h1{
+                    color:blue;
+                }
+                h2{
+                    color:aqua;
+                    background-color:hotpink;
+                }
+        </style>
+    </head>
+</html>
+

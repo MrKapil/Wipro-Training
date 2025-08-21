@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day27\\SessionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84051E63-7002-4294-9A11-2D8575CB88C5}|SessionDemo\\SessionDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day27\\sessiondemo\\sessiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84051E63-7002-4294-9A11-2D8575CB88C5}|SessionDemo\\SessionDemo.csproj|solutionrelative:sessiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84051E63-7002-4294-9A11-2D8575CB88C5}|SessionDemo\\SessionDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day27\\sessiondemo\\sessiondemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84051E63-7002-4294-9A11-2D8575CB88C5}|SessionDemo\\SessionDemo.csproj|solutionrelative:sessiondemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day27\\SessionDemo\\SessionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SessionDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day27\\SessionDemo\\SessionDemo\\Program.cs",
+              "RelativeToolTip": "SessionDemo\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:46:17.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day27\\SessionDemo\\SessionDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SessionDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day27\\SessionDemo\\SessionDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SessionDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:43:59.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

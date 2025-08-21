@@ -1,0 +1,22 @@
+﻿@model IEnumerable<EcommerceApp.Models.Product>
+@{
+    ViewData["Title"] = "Products";
+    Layout = "_Layout";
+}
+<h2>Products</h2>
+
+<div class="grid">
+@foreach (var p in Model)
+{
+    <div class="card">
+        <img src="@p.ImagePath" alt="@p.Name" />
+        <h3>@p.Name</h3>
+        <p class="price">₹ @p.Price</p>
+        <form asp-controller="Cart" asp-action="Add" method="post">
+            <input type="hidden" name="id" value="@p.Id" />
+            <button type="submit">Buy</button>
+        </form>
+    </div>
+}
+</div>
+

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|c:\\users\\kapil\\desktop\\wipro training\\solidprincipleh_workday11\\srp\\srp\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|solutionrelative:srp\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|c:\\users\\kapil\\desktop\\wipro training\\solidprincipleh_workday11\\srp\\srp\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|solutionrelative:srp\\dip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|c:\\users\\kapil\\desktop\\wipro training\\solidprincipleh_workday11\\srp\\srp\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|solutionrelative:srp\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|c:\\users\\kapil\\desktop\\wipro training\\solidprincipleh_workday11\\srp\\srp\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|solutionrelative:srp\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|c:\\users\\kapil\\desktop\\wipro training\\solidprincipleh_workday11\\srp\\srp\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1073C5C8-B111-4C28-8EAE-5CE82821C529}|SRP\\SOLID_PRINCIPLES.csproj|solutionrelative:srp\\srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIP.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\DIP.cs",
+              "RelativeDocumentMoniker": "SRP\\DIP.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\DIP.cs",
+              "RelativeToolTip": "SRP\\DIP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:02:23.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISP.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\ISP.cs",
+              "RelativeDocumentMoniker": "SRP\\ISP.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\ISP.cs",
+              "RelativeToolTip": "SRP\\ISP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T03:00:03.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LSP.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\LSP.cs",
+              "RelativeDocumentMoniker": "SRP\\LSP.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\LSP.cs",
+              "RelativeToolTip": "SRP\\LSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:56:24.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OCP.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\OCP.cs",
+              "RelativeDocumentMoniker": "SRP\\OCP.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\OCP.cs",
+              "RelativeToolTip": "SRP\\OCP.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:48:17.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SRP.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\SRP.cs",
+              "RelativeDocumentMoniker": "SRP\\SRP.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\SolidPrincipleH_WorkDay11\\SRP\\SRP\\SRP.cs",
+              "RelativeToolTip": "SRP\\SRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:23:43.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

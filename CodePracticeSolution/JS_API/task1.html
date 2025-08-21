@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Random User Generator</title>
+</head>
+<body>
+    <h1>Random User Info</h1>
+    <button id="getUserBtn">Get Random User</button>
+
+    <div id="userInfo" style="margin-top:20px;"></div>
+
+    <script>
+        document.getElementById("getUserBtn").addEventListener("click", () => {
+            fetch("https://randomuser.me/api/")
+                .then(response => response.json())
+                .then(data => {
+                    let user = data.results[0];
+                    document.getElementById("userInfo").innerHTML = `
+                        <img src="${user.picture.large}" alt="Profile Picture"><br>
+                        <strong>Name:</strong> ${user.name.first} ${user.name.last}<br>
+                        <strong>Email:</strong> ${user.email}
+                    `;
+                })
+                .catch(error => {
+                    console.error("Error fetching user:", error);
+                });
+        });
+    </script>
+</body>
+</html>

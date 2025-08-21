@@ -1,0 +1,17 @@
+﻿@page
+@model RazerPageApplication.Pages.AddItemModel
+@{
+    ViewData["Title"] = "Add Item";
+}
+
+<h2>Add Item</h2>
+
+<form method="post">
+    <div>
+        <label for="NewItemName">Item Name:</label>
+        <input type="text" asp-for="NewItemName" />
+    </div>
+    <button type="submit">Add</button>
+</form>
+
+<a asp-page="/Items">Back to Items List</a>

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreWithMVCDay26\\MVC_App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A45789-A2F1-45F6-9D04-F08453C8C35F}|MVC_App1\\MVC_App1.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcorewithmvcday26\\mvc_app1\\mvc_app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A45789-A2F1-45F6-9D04-F08453C8C35F}|MVC_App1\\MVC_App1.csproj|solutionrelative:mvc_app1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A45789-A2F1-45F6-9D04-F08453C8C35F}|MVC_App1\\MVC_App1.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcorewithmvcday26\\mvc_app1\\mvc_app1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A45789-A2F1-45F6-9D04-F08453C8C35F}|MVC_App1\\MVC_App1.csproj|solutionrelative:mvc_app1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A45789-A2F1-45F6-9D04-F08453C8C35F}|MVC_App1\\MVC_App1.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcorewithmvcday26\\mvc_app1\\mvc_app1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A45789-A2F1-45F6-9D04-F08453C8C35F}|MVC_App1\\MVC_App1.csproj|solutionrelative:mvc_app1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreWithMVCDay26\\MVC_App1\\MVC_App1\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_App1\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreWithMVCDay26\\MVC_App1\\MVC_App1\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "MVC_App1\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T04:48:20.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreWithMVCDay26\\MVC_App1\\MVC_App1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVC_App1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreWithMVCDay26\\MVC_App1\\MVC_App1\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "MVC_App1\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:47:56.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreWithMVCDay26\\MVC_App1\\MVC_App1\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_App1\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreWithMVCDay26\\MVC_App1\\MVC_App1\\Program.cs*",
+              "RelativeToolTip": "MVC_App1\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:43:32.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\KAPIL\Desktop\Wipro Training\DesignPatternsDay11\DesingPatternsEx1\DesingPatternsEx1\obj\Debug\DesingPatternsEx1.csproj.AssemblyReference.cache
+C:\Users\KAPIL\Desktop\Wipro Training\DesignPatternsDay11\DesingPatternsEx1\DesingPatternsEx1\obj\Debug\DesingPatternsEx1.csproj.CoreCompileInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\DesignPatternsDay11\DesingPatternsEx1\DesingPatternsEx1\bin\Debug\DesingPatternsEx1.exe.config
+C:\Users\KAPIL\Desktop\Wipro Training\DesignPatternsDay11\DesingPatternsEx1\DesingPatternsEx1\bin\Debug\DesingPatternsEx1.exe
+C:\Users\KAPIL\Desktop\Wipro Training\DesignPatternsDay11\DesingPatternsEx1\DesingPatternsEx1\bin\Debug\DesingPatternsEx1.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\DesignPatternsDay11\DesingPatternsEx1\DesingPatternsEx1\obj\Debug\DesingPatternsEx1.exe
+C:\Users\KAPIL\Desktop\Wipro Training\DesignPatternsDay11\DesingPatternsEx1\DesingPatternsEx1\obj\Debug\DesingPatternsEx1.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\DesignPatternsDay11\DesingPatternsEx1\DesingPatternsEx1\obj\Debug\DesingPatternsEx1.exe.config

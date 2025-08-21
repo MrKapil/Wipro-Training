@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\asp.netcoremvcapp\\asp.netcoremvcapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|solutionrelative:asp.netcoremvcapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\asp.netcoremvcapp\\asp.netcoremvcapp\\views\\employee\\create_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|solutionrelative:asp.netcoremvcapp\\views\\employee\\create_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\asp.netcoremvcapp\\asp.netcoremvcapp\\views\\employee\\delete_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|solutionrelative:asp.netcoremvcapp\\views\\employee\\delete_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\asp.netcoremvcapp\\asp.netcoremvcapp\\views\\employee\\edit_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|solutionrelative:asp.netcoremvcapp\\views\\employee\\edit_employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\asp.netcoremvcapp\\asp.netcoremvcapp\\views\\employee\\ibmview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|solutionrelative:asp.netcoremvcapp\\views\\employee\\ibmview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\asp.netcoremvcapp\\asp.netcoremvcapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|solutionrelative:asp.netcoremvcapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\asp.netcoremvcapp\\asp.netcoremvcapp\\views\\ibm_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2743B6EB-DA9A-4CF5-BDA4-86B5A5256420}|ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp.csproj|solutionrelative:asp.netcoremvcapp\\views\\ibm_view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit_Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\Edit_Employee.cshtml",
+              "RelativeDocumentMoniker": "ASP.NetCoreMVCApp\\Views\\Employee\\Edit_Employee.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\Edit_Employee.cshtml",
+              "RelativeToolTip": "ASP.NetCoreMVCApp\\Views\\Employee\\Edit_Employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T08:15:44.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create_Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\create_Employee.cshtml",
+              "RelativeDocumentMoniker": "ASP.NetCoreMVCApp\\Views\\Employee\\create_Employee.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\create_Employee.cshtml",
+              "RelativeToolTip": "ASP.NetCoreMVCApp\\Views\\Employee\\create_Employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T08:11:38.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreMVCApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ASP.NetCoreMVCApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T07:42:57.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete_Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\Delete_Employee.cshtml",
+              "RelativeDocumentMoniker": "ASP.NetCoreMVCApp\\Views\\Employee\\Delete_Employee.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\Delete_Employee.cshtml",
+              "RelativeToolTip": "ASP.NetCoreMVCApp\\Views\\Employee\\Delete_Employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T08:17:12.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP.NetCoreMVCApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "ASP.NetCoreMVCApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T08:06:58.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBMView.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\IBMView.cshtml",
+              "RelativeDocumentMoniker": "ASP.NetCoreMVCApp\\Views\\Employee\\IBMView.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\Employee\\IBMView.cshtml",
+              "RelativeToolTip": "ASP.NetCoreMVCApp\\Views\\Employee\\IBMView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T07:58:34.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBM_View.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\IBM_View.cshtml",
+              "RelativeDocumentMoniker": "ASP.NetCoreMVCApp\\Views\\IBM_View.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\ASP.NetCoreMVCApp\\ASP.NetCoreMVCApp\\Views\\IBM_View.cshtml",
+              "RelativeToolTip": "ASP.NetCoreMVCApp\\Views\\IBM_View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T07:40:23.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

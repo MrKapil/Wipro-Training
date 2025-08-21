@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Recap_Razer_Pages/1.0.0": {
+        "runtime": {
+          "Recap_Razer_Pages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recap_Razer_Pages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

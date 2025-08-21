@@ -1,0 +1,52 @@
+﻿@page
+@model AdvancedRazorPages.Pages.Products.IndexModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Products</title>
+</head>
+<body>
+    <h2>Products</h2>
+
+    <p><a asp-page="/Products/Create">+ Add Product</a></p>
+
+    @if (!Model.Products.Any())
+    {
+        <p>No products yet.</p>
+    }
+    else
+    {
+        foreach (var p in Model.Products)
+        {
+            <partial name="~/Pages/Shared/_ProductSummary.cshtml" model="p" />
+
+            <div>
+                <em>Categories:</em>
+                @if (p.Categories?.Any() == true)
+                {
+                    @for (int i = 0; i < p.Categories.Count; i++)
+                    {
+                        var c = p.Categories[i];
+                        <a asp-page="/Categories/Index" asp-route-name="@c.Name">@c.Name</a>
+                        @(i < p.Categories.Count - 1 ? ", " : "")
+                    }
+                }
+                else
+                {
+                    <span>(none)</span>
+                }
+            </div>
+
+            <div style="margin:6px 0 16px;">
+                <a asp-page="/Products/Details" asp-route-id="@p.ProductID">Details</a>
+            </div>
+        }
+    }
+
+    <p><a href="/">Home</a></p>
+</body>
+</html>

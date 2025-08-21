@@ -1,0 +1,37 @@
+@page
+@model EcommerceApp.Pages.Billing.IndexModel
+@{
+    ViewData["Title"] = "Bill";
+    Layout = "_Layout";
+}
+
+@if (Model.LastOrder is null)
+{
+    <p>No bill to display.</p>
+}
+else
+{
+    <h2>Invoice #@Model.LastOrder.OrderId</h2>
+    <p><b>Customer:</b> @Model.LastOrder.Customer</p>
+    <p><b>Date:</b> @Model.LastOrder.CreatedAt</p>
+
+    <table class="table">
+        <thead><tr><th>Product</th><th>Qty</th><th>Price</th><th>Subtotal</th></tr></thead>
+        <tbody>
+        @foreach (var it in Model.LastOrder.Items)
+        {
+            <tr>
+                <td>@it.Name</td>
+                <td>@it.Quantity</td>
+                <td>₹ @it.UnitPrice</td>
+                <td>₹ @it.Subtotal</td>
+            </tr>
+        }
+        </tbody>
+        <tfoot>
+            <tr><td colspan="3" class="right"><b>Total</b></td><td><b>₹ @Model.LastOrder.Total</b></td></tr>
+        </tfoot>
+    </table>
+
+    <a class="btn" href="/products">Continue Shopping</a>
+}

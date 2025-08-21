@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\asp.netcoreappwithmiddleware\\asp.netcoreappwithmiddleware\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|solutionrelative:asp.netcoreappwithmiddleware\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\asp.netcoreappwithmiddleware\\asp.netcoreappwithmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|solutionrelative:asp.netcoreappwithmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\asp.netcoreappwithmiddleware\\asp.netcoreappwithmiddleware\\wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|solutionrelative:asp.netcoreappwithmiddleware\\wwwroot\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\asp.netcoreappwithmiddleware\\asp.netcoreappwithmiddleware\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|solutionrelative:asp.netcoreappwithmiddleware\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\asp.netcoreappwithmiddleware\\asp.netcoreappwithmiddleware\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|solutionrelative:asp.netcoreappwithmiddleware\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\asp.netcoreappwithmiddleware\\asp.netcoreappwithmiddleware\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|solutionrelative:asp.netcoreappwithmiddleware\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\asp.netcoreappwithmiddleware\\asp.netcoreappwithmiddleware\\middleware\\reqreslogmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{600FE447-5353-49D1-BA0E-6B75E348C954}|ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware.csproj|solutionrelative:asp.netcoreappwithmiddleware\\middleware\\reqreslogmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "ASP.NetCoreAppWithMiddleware\\wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\wwwroot\\app.js",
+              "RelativeToolTip": "ASP.NetCoreAppWithMiddleware\\wwwroot\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-16T12:22:12.637Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "ASP.NetCoreAppWithMiddleware\\wwwroot\\styles.css",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\wwwroot\\styles.css",
+              "RelativeToolTip": "ASP.NetCoreAppWithMiddleware\\wwwroot\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-16T12:22:02.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ASP.NetCoreAppWithMiddleware\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\wwwroot\\index.html",
+              "RelativeToolTip": "ASP.NetCoreAppWithMiddleware\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-16T12:21:46.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\Startup.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreAppWithMiddleware\\Startup.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\Startup.cs",
+              "RelativeToolTip": "ASP.NetCoreAppWithMiddleware\\Startup.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:17:52.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\Program.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreAppWithMiddleware\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\Program.cs",
+              "RelativeToolTip": "ASP.NetCoreAppWithMiddleware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:16:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "error.html",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\wwwroot\\error.html",
+              "RelativeDocumentMoniker": "ASP.NetCoreAppWithMiddleware\\wwwroot\\error.html",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\wwwroot\\error.html",
+              "RelativeToolTip": "ASP.NetCoreAppWithMiddleware\\wwwroot\\error.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-16T12:22:22.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReqResLogMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\Middleware\\ReqResLogMiddleware.cs",
+              "RelativeDocumentMoniker": "ASP.NetCoreAppWithMiddleware\\Middleware\\ReqResLogMiddleware.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\ASP.NetCoreAppWithMiddleware\\ASP.NetCoreAppWithMiddleware\\Middleware\\ReqResLogMiddleware.cs",
+              "RelativeToolTip": "ASP.NetCoreAppWithMiddleware\\Middleware\\ReqResLogMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:19:56.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

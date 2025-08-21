@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function demoVariables() {
+
+            var x = 10;  // Function-scoped
+            let y = 20;  // Block-scoped
+            const z = 30;  // Block-scoped and cannot be reassigned
+            if (true)
+        {
+            var x = 100;  //Re-declared and updated (still in function scope)
+
+            let y = 200;  // New block-scoped variable iable (separate (separate fre from outer y)
+
+            //z = 300     // X Error: Assignment to constant variable
+
+            console.log("Inside block:");
+            console.log("x (var):", x); // 100
+            console.log("y (let):", y); // 200
+            console.log("z (const):", z); // 30
+        }
+            console.log("Outside block:");
+            console.log("x (var):", x); //
+            console.log("y (let):", y); // 20 (original y)
+            console.log("z (const):", z); // 30
+    }
+            demoVariables();
+
+</script>
+    </script>
+</body>
+</html>

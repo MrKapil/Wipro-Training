@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|c:\\users\\kapil\\desktop\\wipro training\\.net core - day10\\core.netfirstproject\\core.netfirstproject\\pages\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|solutionrelative:core.netfirstproject\\pages\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|c:\\users\\kapil\\desktop\\wipro training\\.net core - day10\\core.netfirstproject\\core.netfirstproject\\pages\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|solutionrelative:core.netfirstproject\\pages\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|c:\\users\\kapil\\desktop\\wipro training\\.net core - day10\\core.netfirstproject\\core.netfirstproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|solutionrelative:core.netfirstproject\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|c:\\users\\kapil\\desktop\\wipro training\\.net core - day10\\core.netfirstproject\\core.netfirstproject\\pages\\wiproweb1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|solutionrelative:core.netfirstproject\\pages\\wiproweb1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|c:\\users\\kapil\\desktop\\wipro training\\.net core - day10\\core.netfirstproject\\core.netfirstproject\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C23C01-548F-48E4-92E3-1C74251A8DB6}|Core.NetFirstProject\\Core.NetFirstProject.csproj|solutionrelative:core.netfirstproject\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\Page2.cshtml",
+              "RelativeDocumentMoniker": "Core.NetFirstProject\\Pages\\Page2.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\Page2.cshtml",
+              "RelativeToolTip": "Core.NetFirstProject\\Pages\\Page2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T02:49:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutUS.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\AboutUS.cshtml",
+              "RelativeDocumentMoniker": "Core.NetFirstProject\\Pages\\AboutUS.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\AboutUS.cshtml",
+              "RelativeToolTip": "Core.NetFirstProject\\Pages\\AboutUS.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T02:42:20.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactUS.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\ContactUS.cshtml",
+              "RelativeDocumentMoniker": "Core.NetFirstProject\\Pages\\ContactUS.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\ContactUS.cshtml",
+              "RelativeToolTip": "Core.NetFirstProject\\Pages\\ContactUS.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T02:41:56.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Core.NetFirstProject\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Core.NetFirstProject\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T02:34:34.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "wiproweb1.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\wiproweb1.cshtml",
+              "RelativeDocumentMoniker": "Core.NetFirstProject\\Pages\\wiproweb1.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\.Net Core - Day10\\Core.NetFirstProject\\Core.NetFirstProject\\Pages\\wiproweb1.cshtml",
+              "RelativeToolTip": "Core.NetFirstProject\\Pages\\wiproweb1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T02:32:10.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

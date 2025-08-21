@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Recap_Razer_Pages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E68E73D-0CCE-4E50-89D1-7CD122C37B4D}|Recap_Razer_Pages\\Recap_Razer_Pages.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\recap_razer_pages\\recap_razer_pages\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E68E73D-0CCE-4E50-89D1-7CD122C37B4D}|Recap_Razer_Pages\\Recap_Razer_Pages.csproj|solutionrelative:recap_razer_pages\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E68E73D-0CCE-4E50-89D1-7CD122C37B4D}|Recap_Razer_Pages\\Recap_Razer_Pages.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\recap_razer_pages\\recap_razer_pages\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E68E73D-0CCE-4E50-89D1-7CD122C37B4D}|Recap_Razer_Pages\\Recap_Razer_Pages.csproj|solutionrelative:recap_razer_pages\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E68E73D-0CCE-4E50-89D1-7CD122C37B4D}|Recap_Razer_Pages\\Recap_Razer_Pages.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\recap_razer_pages\\recap_razer_pages\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E68E73D-0CCE-4E50-89D1-7CD122C37B4D}|Recap_Razer_Pages\\Recap_Razer_Pages.csproj|solutionrelative:recap_razer_pages\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Recap_Razer_Pages\\Recap_Razer_Pages\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Recap_Razer_Pages\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Recap_Razer_Pages\\Recap_Razer_Pages\\Models\\Customer.cs",
+              "RelativeToolTip": "Recap_Razer_Pages\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:22:12.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Recap_Razer_Pages\\Recap_Razer_Pages\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Recap_Razer_Pages\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Recap_Razer_Pages\\Recap_Razer_Pages\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Recap_Razer_Pages\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:17:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Recap_Razer_Pages\\Recap_Razer_Pages\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Recap_Razer_Pages\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Recap_Razer_Pages\\Recap_Razer_Pages\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Recap_Razer_Pages\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T10:14:30.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

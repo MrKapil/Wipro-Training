@@ -1,0 +1,32 @@
+﻿@page
+@model AdvancedRazorPages.Pages.Categories.IndexModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Category: @Model.Name</title>
+</head>
+<body>
+    <h2>Category: @Model.Name</h2>
+
+    @if (!Model.Products.Any())
+    {
+        <p>No products found for this category.</p>
+    }
+    else
+    {
+        foreach (var p in Model.Products)
+        {
+            <partial name="~/Pages/Shared/_ProductSummary.cshtml" model="p" />
+            <div style="margin:6px 0 16px;">
+                <a asp-page="/Products/Details" asp-route-id="@p.ProductID">Details</a>
+            </div>
+        }
+    }
+
+    <p><a asp-page="/Products/Index">Back to Products</a></p>
+</body>
+</html>

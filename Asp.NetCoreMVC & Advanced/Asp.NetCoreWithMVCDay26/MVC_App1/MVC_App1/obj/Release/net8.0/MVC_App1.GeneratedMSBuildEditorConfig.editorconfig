@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_App1
+build_property.RootNamespace = MVC_App1
+build_property.ProjectDir = C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\MVC_App1\MVC_App1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Asp.NetCoreWithMVCDay26\MVC_App1\MVC_App1
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Home/CustomTagHelperDemo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21UYWdIZWxwZXJEZW1vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Wipro/ClientSide_UserView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lwcm9cQ2xpZW50U2lkZV9Vc2VyVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Wipro/HelperTag_Demo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lwcm9cSGVscGVyVGFnX0RlbW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Wipro/Helper_Demo_UsingModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lwcm9cSGVscGVyX0RlbW9fVXNpbmdNb2RlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Wipro/Std_Helper_Demo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lwcm9cU3RkX0hlbHBlcl9EZW1vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KAPIL/Desktop/Wipro Training/Asp.NetCoreMVC & Advanced/Asp.NetCoreWithMVCDay26/MVC_App1/MVC_App1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ldo10hko79

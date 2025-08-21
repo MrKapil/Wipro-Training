@@ -1,0 +1,8 @@
+C:\Users\KAPIL\Desktop\Wipro Training\Unit Testing - Day9\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\KAPIL\Desktop\Wipro Training\Unit Testing - Day9\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\KAPIL\Desktop\Wipro Training\Unit Testing - Day9\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\Unit Testing - Day9\Calculator\Calculator\obj\Debug\CalculatorTest.csproj.AssemblyReference.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Unit Testing - Day9\Calculator\Calculator\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Unit Testing - Day9\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\KAPIL\Desktop\Wipro Training\Unit Testing - Day9\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\Unit Testing - Day9\Calculator\Calculator\obj\Debug\Calculator.exe.config

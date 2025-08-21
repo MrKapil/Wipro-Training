@@ -1,0 +1,27 @@
+﻿@page
+@model RazerPageApplication.Pages.ItemsModel
+@{
+    ViewData["Title"] = "Items List";
+}
+
+<h2>Items List</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Item Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ItemList)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="/AddItem">Add New Item</a>

@@ -1,0 +1,15 @@
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\CollectionsDay5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\CollectionsDay5.AssemblyInfoInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\CollectionsDay5.AssemblyInfo.cs
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\CollectionsDay5.csproj.CoreCompileInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\CollectionsDay5.sourcelink.json
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\bin\Debug\net9.0\CollectionsDay5.exe
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\bin\Debug\net9.0\CollectionsDay5.deps.json
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\bin\Debug\net9.0\CollectionsDay5.runtimeconfig.json
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\bin\Debug\net9.0\CollectionsDay5.dll
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\bin\Debug\net9.0\CollectionsDay5.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\CollectionsDay5.dll
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\refint\CollectionsDay5.dll
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\CollectionsDay5.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\CollectionsDay5.genruntimeconfig.cache
+C:\Users\KAPIL\Desktop\Wipro Training\CollectionsDay5\obj\Debug\net9.0\ref\CollectionsDay5.dll

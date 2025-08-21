@@ -1,0 +1,33 @@
+﻿@model MvcModelBindingDemo.Models.User
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Complex Result</title>
+</head>
+<body>
+    <h2>Submitted Complex Model</h2>
+
+    <h3>User</h3>
+    <p><strong>First name:</strong> @Model.FirstName</p>
+    <p><strong>Last name:</strong> @Model.LastName</p>
+    <p><strong>Age:</strong> @Model.Age</p>
+
+    <h3>Address</h3>
+    @if (Model.Address is not null)
+    {
+        <p><strong>Street:</strong> @Model.Address.Street</p>
+        <p><strong>City:</strong> @Model.Address.City</p>
+        <p><strong>Zip:</strong> @Model.Address.ZipCode</p>
+    }
+    else
+    {
+        <p>No address supplied.</p>
+    }
+
+    <p><a asp-action="Index">Back</a></p>
+</body>
+</html>

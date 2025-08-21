@@ -1,0 +1,44 @@
+<html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSC Registration Form</title>
+</head>
+<body>
+
+    <h2>:SSC Registration:</h2>
+
+
+    
+        <form action="#Welcome" >
+            <label for="id">ID :</label><br>
+            <input type="number" id="id" name="id" required /><br><br>
+
+            <label for="first name">First Name :</label><br>
+            <input type="text" id="first name" name="first name" required pattern= "[A-Za-z]{2,}" /> <br><br>
+
+            <label for="last name">Last Name :</label><br>
+            <input type="text" id="last name" name="last name" required pattern="[A-Za-z]{2,}"/><br><br>
+
+            <label for="Address"> Address </label><br>
+            <input type=" text" name="Address" id="Address" required pattern="[A-Za-z]{2,}"><br><br>
+
+            <label for="id">City :</label><br>
+            <input type="text" id="city" name="city" required pattern="[A-Za-z]{2,}" /><br><br>
+
+            <label for="id">Password :</label><br>
+            <input type="password" id="password" name="password" required minlength="6"/><br><br>
+           
+            <button type="submit">Submit</button>
+
+            <input type="submit" value="Submit">
+        </form>
+        <div id="#WelcomeMessage"><br>
+            Welcome! your registration is Done.
+        </div>
+
+     </div>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+﻿@{
+    var user = Context.Session.GetString("username");
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - EcommerceApp</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header class="topbar">
+        <h1><div class="brand"><a href="/">EcommerceApp</a></div></h1>
+        <nav>
+            <a href="/products">Products</a>
+            <a href="/Cart">Cart</a>
+            @if (!string.IsNullOrEmpty(user))
+            {
+                <span class="welcome">Welcome, @user</span>
+                <a href="/Account/Logout">Logout</a>
+            }
+        </nav>
+    </header>
+    <main class="container">
+        @RenderBody()
+    </main>
+    <footer class="footer"> Ecommerce - Platform - Privacy - About - Contact </footer>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

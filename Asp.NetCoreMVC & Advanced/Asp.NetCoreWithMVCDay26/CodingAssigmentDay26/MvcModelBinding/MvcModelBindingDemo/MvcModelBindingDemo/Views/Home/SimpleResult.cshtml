@@ -1,0 +1,19 @@
+﻿@model MvcModelBindingDemo.Models.User
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Simple Result</title>
+</head>
+<body>
+    <h2>Submitted Simple Model</h2>
+    <p><strong>First name:</strong> @Model.FirstName</p>
+    <p><strong>Last name:</strong> @Model.LastName</p>
+    <p><strong>Age:</strong> @Model.Age</p>
+
+    <p><a asp-action="Index">Back</a></p>
+</body>
+</html>

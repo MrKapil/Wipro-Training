@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NetCoreAppWithMiddleware", "ASP.NetCoreAppWithMiddleware\ASP.NetCoreAppWithMiddleware.csproj", "{600FE447-5353-49D1-BA0E-6B75E348C954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{600FE447-5353-49D1-BA0E-6B75E348C954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600FE447-5353-49D1-BA0E-6B75E348C954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600FE447-5353-49D1-BA0E-6B75E348C954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600FE447-5353-49D1-BA0E-6B75E348C954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {176D2B9F-8B2E-45FA-9D4C-FEB815909019}
+	EndGlobalSection
+EndGlobal

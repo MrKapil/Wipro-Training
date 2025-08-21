@@ -1,0 +1,34 @@
+﻿@model MvcModelBindingDemo.Models.User
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Simple Form</title>
+</head>
+<body>
+    <h2>Simple Model Binding (User)</h2>
+
+    <!-- Form binds to User's simple properties -->
+    <form asp-action="SimpleResult" asp-controller="Home" method="post">
+        @Html.AntiForgeryToken()
+        <div>
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" />
+        </div>
+        <div>
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" />
+        </div>
+        <div>
+            <label asp-for="Age"></label>
+            <input asp-for="Age" type="number" />
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+
+    <p><a asp-action="Index">Back</a></p>
+</body>
+</html>

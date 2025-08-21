@@ -1,0 +1,19 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-student-marks',
+  imports: [],
+  templateUrl: './student-marks.html',
+  styleUrls: ['./student-marks.css']
+})
+export class StudentMarks {
+  public students = [
+    {"id" : 1001, "name" : "Kapil", "marks" : 90},
+    {"id" : 1002, "name" : "Raju", "marks" : 80},
+    {"id" : 1003, "name" : "Shyam", "marks" : 70},
+    {"id" : 1004, "name" : "Baburao", "marks" : 60},
+    {"id" : 1005, "name" : "Thanos", "marks" : 95},
+  ];
+  
+  ngOnInit(){}
+}

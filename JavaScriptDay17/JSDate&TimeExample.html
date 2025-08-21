@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>date and Time Ex</title>
+</head>
+<body>
+    <script>
+        //current date and time
+        //let now = new date();
+
+        //specific date string 
+        let CustomeDate = new Date(2023, 11, 25, 0, 0);
+
+        //Using timestamp (milisecond since jan 1, 1970)
+        let fromTimestamp = new Date(1665436);
+
+        let d = new Date();
+
+        console.log(d.getFullYear());
+        console.log(d.getMonth());
+        console.log(d.getDate());
+        console.log(d.getDay());
+        console.log(d.getHours());
+        console.log(d.getMinutes());
+        console.log(d.getSeconds());
+
+        let d1 = new Date();
+        console.log(d1.toDateString());
+        console.log(d1.toTimeString());
+        console.log(d1.toDateString());
+
+
+
+
+    </script>
+</body>
+</html>

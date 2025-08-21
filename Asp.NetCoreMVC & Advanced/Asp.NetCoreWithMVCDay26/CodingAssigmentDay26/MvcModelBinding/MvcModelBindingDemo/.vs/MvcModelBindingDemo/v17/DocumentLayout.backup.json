@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\mvcmodelbindingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\mvcmodelbindingdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\views\\home\\complexresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\views\\home\\complexresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\views\\home\\complexform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\views\\home\\complexform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\views\\home\\simpleresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\views\\home\\simpleresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\views\\home\\simpleform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\views\\home\\simpleform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\asp.netcorewithmvcday26\\codingassigmentday26\\mvcmodelbinding\\mvcmodelbindingdemo\\mvcmodelbindingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0847F8-C8D7-4BAA-A818-D8152E177356}|MvcModelBindingDemo\\MvcModelBindingDemo.csproj|solutionrelative:mvcmodelbindingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComplexForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\ComplexForm.cshtml",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Views\\Home\\ComplexForm.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\ComplexForm.cshtml",
+              "RelativeToolTip": "MvcModelBindingDemo\\Views\\Home\\ComplexForm.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T02:09:12.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComplexResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\ComplexResult.cshtml",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Views\\Home\\ComplexResult.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\ComplexResult.cshtml",
+              "RelativeToolTip": "MvcModelBindingDemo\\Views\\Home\\ComplexResult.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T02:09:33.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\SimpleForm.cshtml",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Views\\Home\\SimpleForm.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\SimpleForm.cshtml",
+              "RelativeToolTip": "MvcModelBindingDemo\\Views\\Home\\SimpleForm.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T02:08:34.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcModelBindingDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T02:11:42.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcModelBindingDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T02:11:24.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcModelBindingDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T02:11:09.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Program.cs",
+              "RelativeToolTip": "MvcModelBindingDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T02:10:43.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MvcModelBindingDemo",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\MvcModelBindingDemo.csproj",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\MvcModelBindingDemo.csproj",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\MvcModelBindingDemo.csproj",
+              "RelativeToolTip": "MvcModelBindingDemo\\MvcModelBindingDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T02:09:58.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\SimpleResult.cshtml",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Views\\Home\\SimpleResult.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Views\\Home\\SimpleResult.cshtml",
+              "RelativeToolTip": "MvcModelBindingDemo\\Views\\Home\\SimpleResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T02:08:55.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Models\\User.cs",
+              "RelativeToolTip": "MvcModelBindingDemo\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T02:07:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "MvcModelBindingDemo\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Asp.NetCoreWithMVCDay26\\CodingAssigmentDay26\\MvcModelBinding\\MvcModelBindingDemo\\MvcModelBindingDemo\\Models\\Address.cs",
+              "RelativeToolTip": "MvcModelBindingDemo\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T02:07:28.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

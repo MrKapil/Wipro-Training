@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\razerpageapplication\\razerpageapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|solutionrelative:razerpageapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\razerpageapplication\\razerpageapplication\\pages\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|solutionrelative:razerpageapplication\\pages\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\razerpageapplication\\razerpageapplication\\pages\\additem.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|solutionrelative:razerpageapplication\\pages\\additem.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\razerpageapplication\\razerpageapplication\\pages\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|solutionrelative:razerpageapplication\\pages\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\razerpageapplication\\razerpageapplication\\pages\\items.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|solutionrelative:razerpageapplication\\pages\\items.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoreday25\\day25excerciseproject\\razerpageapplication\\razerpageapplication\\services\\itemstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEBEA9B-6746-4B54-AD4E-5C1353766BEE}|RazerPageApplication\\RazerPageApplication.csproj|solutionrelative:razerpageapplication\\services\\itemstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Items.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Pages\\Items.cshtml.cs",
+              "RelativeDocumentMoniker": "RazerPageApplication\\Pages\\Items.cshtml.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Pages\\Items.cshtml.cs",
+              "RelativeToolTip": "RazerPageApplication\\Pages\\Items.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:11:49.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Items.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Pages\\Items.cshtml",
+              "RelativeDocumentMoniker": "RazerPageApplication\\Pages\\Items.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Pages\\Items.cshtml",
+              "RelativeToolTip": "RazerPageApplication\\Pages\\Items.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T12:10:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Pages\\AddItem.cshtml",
+              "RelativeDocumentMoniker": "RazerPageApplication\\Pages\\AddItem.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Pages\\AddItem.cshtml",
+              "RelativeToolTip": "RazerPageApplication\\Pages\\AddItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T12:10:58.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Program.cs",
+              "RelativeDocumentMoniker": "RazerPageApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Program.cs",
+              "RelativeToolTip": "RazerPageApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:15:04.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddItem.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Pages\\AddItem.cshtml.cs",
+              "RelativeDocumentMoniker": "RazerPageApplication\\Pages\\AddItem.cshtml.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Pages\\AddItem.cshtml.cs",
+              "RelativeToolTip": "RazerPageApplication\\Pages\\AddItem.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:25:13.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemStore.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Services\\ItemStore.cs",
+              "RelativeDocumentMoniker": "RazerPageApplication\\Services\\ItemStore.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\ASP.netCoreDay25\\Day25ExcerciseProject\\RazerPageApplication\\RazerPageApplication\\Services\\ItemStore.cs",
+              "RelativeToolTip": "RazerPageApplication\\Services\\ItemStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:13:56.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

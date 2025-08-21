@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        const add = (a, b) => a + b;
+        const sub = (a, b) => a - b;
+        const mul = (a, b) => a * b;
+        const div = (a, b) => a / b;
+        const mod = (a, b) => a % b;
+
+        console.log("Addition of :" + add(10, 2));
+        console.log("Subtract of :" + sub(10, 2));
+        console.log("Multi of :" + mul(10, 2));
+        console.log("Division of :" + div(10, 2));
+        console.log("module of :" + mod(10, 2));
+
+//without parameters :- 
+
+        const greet = () => "Hello";
+        console.log(greet);
+
+        //ES6 fetures - template literal :-
+        const name = "ye_Raju";
+        console.log('hello, ${name}');
+
+
+//for-of loop :- 
+
+        const fruits = ["Apple", "Bada_Apple"];
+        for(const fruit of fruits)
+    {
+        console.log(fruit);
+    }
+
+
+//classes in ES6(Ekma Script 6)
+class Animal
+{
+    speak()
+    {
+        console.log("the animal making sound");
+    }
+}
+
+const dog = new Animal();
+dog.speak();
+
+
+//maps in ES6
+const map = new Map();
+map.set("a", 1);
+const set = new Set([1,2,2,3]);
+console.log(set);
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="title">hello DOM!</h1>
+    <button onclick="channgeText()">Thokoooo...</button>
+
+    <script>
+        function channgeText() {
+            const heading = document.getElementById("title");
+            heading.textContent = "You Clicked The Button.!";
+        }
+
+    </script>
+</body>
+</html>

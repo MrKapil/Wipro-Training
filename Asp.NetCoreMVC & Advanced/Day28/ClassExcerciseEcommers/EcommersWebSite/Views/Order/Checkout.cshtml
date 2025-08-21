@@ -1,0 +1,29 @@
+@model List<EcommerceApp.Models.CartItem>
+@{
+    ViewData["Title"] = "Checkout";
+    Layout = "_Layout";
+}
+<h2>Order Summary</h2>
+
+<table class="table">
+    <thead><tr><th>Product</th><th>Qty</th><th>Price</th><th>Subtotal</th></tr></thead>
+    <tbody>
+    @foreach (var it in Model)
+    {
+        <tr>
+            <td>@it.Name</td>
+            <td>@it.Quantity</td>
+            <td>₹ @it.UnitPrice</td>
+            <td>₹ @it.Subtotal</td>
+        </tr>
+    }
+    </tbody>
+    <tfoot>
+        <tr><td colspan="3" class="right"><b>Total</b></td><td><b>₹ @Model.Sum(i=>i.Subtotal)</b></td></tr>
+    </tfoot>
+</table>
+
+<form asp-action="Place" method="post">
+    <button type="submit" class="btn">Confirm Order</button>
+    <a class="btn ghost" href="/Cart">Back to Cart</a>
+</form>

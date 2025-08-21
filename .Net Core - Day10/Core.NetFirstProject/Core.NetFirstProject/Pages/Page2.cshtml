@@ -1,0 +1,69 @@
+﻿@page
+@model Core.NetFirstProject.Pages.Page2Model
+@{
+}
+<h1>Page 2</h1>
+
+<h1>Razer Sysntax demo</h1>
+<h1> Inline Expression Demo</h1>
+<h2>today's Date Is : @DateTime.Now.ToShortDateString()</h2>
+
+<h1>Multiline Expression demo</h1>
+@{
+    var date = DateTime.Now.ToLongDateString();
+    var message = "Hello World";
+}
+<h2> Today's Date is: @date</h2>
+<h3>@message</h3>
+<br />
+
+
+<h1>Display text from code block</h1>
+@{
+    var date1 = DateTime.Now.ToLongDateString();
+    var message1 = "Hello World";
+}
+<h2> Today's Date is: @date1</h2>
+<h3>@message</h3>
+<br />
+
+@{
+    var date2 = DateTime.Now.ToLongDateString();
+    var message2 = "Hello World";
+}
+<h2> Today's Date is: @date2</h2>
+<h3>@message2</h3>
+<br />
+
+
+<h1> if , switch, loops</h1>
+@{
+    var x = 10;
+    if(x==10)
+    {
+        
+        <h2> x value is 10</h2>
+    }
+    else
+    {
+        <h1> x value is not 10</h1>
+    }
+    int day = 1;
+
+    switch (day)
+    {
+        case 1:
+            <h2>Today Is Monday</h2>
+            break;
+        case 2:
+            <h2>Today Is Tuesday</h2>
+            break;
+        case 3:
+            <h2>Today Is wednesdayt</h2>
+            break;
+        default:
+            <h2>Today Is not a Day</h2>
+            break;
+        
+    }
+}

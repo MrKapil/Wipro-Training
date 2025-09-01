@@ -1,0 +1,10 @@
+# Ignore build folders
+bin
+obj
+
+# Optional ignore other system files
+.user
+.suo
+.exe
+.dll
+.pdb

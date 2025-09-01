@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7EF27A-C154-4DC4-9F70-D29AB36E6532}|LibraryManagement.Tests\\LibraryManagement.Tests.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\librarymanagement\\librarymanagement.tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7EF27A-C154-4DC4-9F70-D29AB36E6532}|LibraryManagement.Tests\\LibraryManagement.Tests.csproj|solutionrelative:librarymanagement.tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243C59E8-4A41-4FD9-8D6E-E1E1C2629774}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\librarymanagement\\librarymanagement\\services\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C59E8-4A41-4FD9-8D6E-E1E1C2629774}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243C59E8-4A41-4FD9-8D6E-E1E1C2629774}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\librarymanagement\\librarymanagement\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C59E8-4A41-4FD9-8D6E-E1E1C2629774}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243C59E8-4A41-4FD9-8D6E-E1E1C2629774}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C59E8-4A41-4FD9-8D6E-E1E1C2629774}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7EF27A-C154-4DC4-9F70-D29AB36E6532}|LibraryManagement.Tests\\LibraryManagement.Tests.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\librarymanagement\\librarymanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7EF27A-C154-4DC4-9F70-D29AB36E6532}|LibraryManagement.Tests\\LibraryManagement.Tests.csproj|solutionrelative:librarymanagement.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243C59E8-4A41-4FD9-8D6E-E1E1C2629774}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\librarymanagement\\librarymanagement\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243C59E8-4A41-4FD9-8D6E-E1E1C2629774}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryTests.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement.Tests\\LibraryTests.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Tests\\LibraryTests.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement.Tests\\LibraryTests.cs",
+              "RelativeToolTip": "LibraryManagement.Tests\\LibraryTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:40:59.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement\\Services\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\Library.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement\\Services\\Library.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:38:15.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Borrower.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement\\Models\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:37:50.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:37:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "LibraryManagement.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:35:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement\\Class1.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Class1.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\LibraryManagement\\LibraryManagement\\Class1.cs",
+              "RelativeToolTip": "LibraryManagement\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T10:30:58.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

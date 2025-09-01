@@ -1,0 +1,34 @@
+@model LibraryManagementSystem.Models.Author
+@{
+    ViewData["Title"] = "Add Author";
+}
+
+<h2>Add Author</h2>
+<form id="createAuthorForm">
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Save</button>
+</form>
+
+@section Scripts {
+    <script>
+        $("#createAuthorForm").submit(function(e){
+            e.preventDefault();
+            var formData = $(this).serialize();
+            $.ajax({
+                url: '/Author/Create',
+                type: 'POST',
+                data: formData,
+                success: function(response){
+                    if(response.success){
+                        window.location.href = '/Author';
+                    } else {
+                        alert("Error saving author");
+                    }
+                }
+            });
+        });
+    </script>
+}

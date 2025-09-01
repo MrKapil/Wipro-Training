@@ -1,0 +1,13 @@
+@model SecureLoginApp.Models.UserProfileViewModel
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<h2>User Profile</h2>
+
+<div class="card p-3">
+    <p><strong>Username:</strong> @Model.Username</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Full name:</strong> @Model.FullName</p>
+    <p><em>@Model.Message</em></p>
+</div>

@@ -1,0 +1,15 @@
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\bin\Debug\net9.0\ReportingSystem.exe
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\bin\Debug\net9.0\ReportingSystem.deps.json
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\bin\Debug\net9.0\ReportingSystem.runtimeconfig.json
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\bin\Debug\net9.0\ReportingSystem.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\bin\Debug\net9.0\ReportingSystem.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ReportingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ReportingSystem.AssemblyInfoInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ReportingSystem.AssemblyInfo.cs
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ReportingSystem.csproj.CoreCompileInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ReportingSystem.sourcelink.json
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ReportingSystem.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\refint\ReportingSystem.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ReportingSystem.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ReportingSystem.genruntimeconfig.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\SolidPrinciple\src\ReportingSystem\obj\Debug\net9.0\ref\ReportingSystem.dll

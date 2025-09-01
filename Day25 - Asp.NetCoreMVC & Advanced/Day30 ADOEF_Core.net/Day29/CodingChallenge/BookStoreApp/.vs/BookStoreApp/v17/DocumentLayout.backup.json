@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\data\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\data\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\data\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\data\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\data\\ibookdatasetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\data\\ibookdatasetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\data\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\data\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\views\\books\\_bookform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\books\\_bookform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\data\\bookdatasetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\data\\bookdatasetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\scripts\\sql\\02_stored_procs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\scripts\\sql\\02_stored_procs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\scripts\\sql\\01_create_db_and_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\scripts\\sql\\01_create_db_and_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\scripts\\sql\\01_create_db_and_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\scripts\\sql\\01_create_db_and_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\kapil\\desktop\\wipro training\\asp.netcoremvc \u0026 advanced\\day29\\bookstoreapp\\bookstoreapp\\scripts\\sql\\02_stored_procs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{EF392DB2-2B85-46B7-948B-F6FBFCCB79F3}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\scripts\\sql\\02_stored_procs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbFactory.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\DbFactory.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Data\\DbFactory.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\DbFactory.cs",
+              "RelativeToolTip": "BookStoreApp\\Data\\DbFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:59:20.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BookStoreApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\appsettings.json",
+              "RelativeToolTip": "BookStoreApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T11:56:43.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Program.cs",
+              "RelativeToolTip": "BookStoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:15:53.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Data\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\BookRepository.cs",
+              "RelativeToolTip": "BookStoreApp\\Data\\BookRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:59:46.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookDataSetService.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\IBookDataSetService.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Data\\IBookDataSetService.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\IBookDataSetService.cs",
+              "RelativeToolTip": "BookStoreApp\\Data\\IBookDataSetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:59:57.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookStoreApp\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:01:19.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:03:04.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:03:47.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_BookForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\_BookForm.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Books\\_BookForm.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\_BookForm.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Views\\Books\\_BookForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:04:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Data\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\IBookRepository.cs",
+              "RelativeToolTip": "BookStoreApp\\Data\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:59:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDataSetService.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\BookDataSetService.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Data\\BookDataSetService.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Data\\BookDataSetService.cs",
+              "RelativeToolTip": "BookStoreApp\\Data\\BookDataSetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:00:07.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:02:48.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Models\\Book.cs",
+              "RelativeToolTip": "BookStoreApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:00:31.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:03:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:03:34.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "02_stored_procs.sql ",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Scripts\\sql\\02_stored_procs.sql",
+              "RelativeDocumentMoniker": "BookStoreApp\\Scripts\\sql\\02_stored_procs.sql",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Scripts\\sql\\02_stored_procs.sql",
+              "RelativeToolTip": "BookStoreApp\\Scripts\\sql\\02_stored_procs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-21T12:13:23.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "01_create_db_and_tables.sql ",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Scripts\\sql\\01_create_db_and_tables.sql",
+              "RelativeDocumentMoniker": "BookStoreApp\\Scripts\\sql\\01_create_db_and_tables.sql",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC \u0026 Advanced\\Day29\\BookStoreApp\\BookStoreApp\\Scripts\\sql\\01_create_db_and_tables.sql",
+              "RelativeToolTip": "BookStoreApp\\Scripts\\sql\\01_create_db_and_tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-21T12:12:46.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

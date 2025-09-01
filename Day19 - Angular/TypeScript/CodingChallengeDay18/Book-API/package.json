@@ -1,0 +1,15 @@
+{
+  "name": "Book-API",
+  "version": "1.0.0",
+  "description": "Book Management REST API using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

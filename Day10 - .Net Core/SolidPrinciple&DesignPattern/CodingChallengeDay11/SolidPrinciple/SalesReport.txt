@@ -1,0 +1,4 @@
+[PDF FORMAT]
+Title: Sales Report
+Content:
+Detailed sales data...

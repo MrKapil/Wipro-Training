@@ -1,0 +1,15 @@
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\bin\Debug\net9.0\DesignPatternsAssignment.exe
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\bin\Debug\net9.0\DesignPatternsAssignment.deps.json
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\bin\Debug\net9.0\DesignPatternsAssignment.runtimeconfig.json
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\bin\Debug\net9.0\DesignPatternsAssignment.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\bin\Debug\net9.0\DesignPatternsAssignment.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\DesignPatternsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\DesignPatternsAssignment.AssemblyInfoInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\DesignPatternsAssignment.AssemblyInfo.cs
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\DesignPatternsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\DesignPatternsAssignment.sourcelink.json
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\DesignPatternsAssignment.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\refint\DesignPatternsAssignment.dll
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\DesignPatternsAssignment.pdb
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\DesignPatternsAssignment.genruntimeconfig.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Day10 - .Net Core\SolidPrinciple&DesignPattern\CodingChallengeDay11\DesignPatternsAssignment\obj\Debug\net9.0\ref\DesignPatternsAssignment.dll

@@ -1,0 +1,54 @@
+
+@model rRepoDesignPattern.Models.Employee
+@{
+    ViewBag.Title = "Delete Employee";
+}
+<div align="center">
+    <h3>Employee Management</h3>
+    <br />
+    @using (Html.BeginForm("DeleteEmployee", "Employee", FormMethod.Post))
+    {
+        @Html.HiddenFor(e => e.EmployeeId)
+        <table border="1" cellpadding="10">
+            <tr>
+                  <td colspan="2" align="center">
+                    <b>Delete Employee</b>
+                    @if (ViewBag.Failed != null)
+                    {
+                        <span style="color:red;">@ViewBag.Failed</span>
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(e => e.EmployeeName)
+                </td>
+                <td>
+                    @Html.TextBoxFor(e => e.EmployeeName, new { @readonly = "readonly" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(e => e.Address)
+                </td>
+                <td>
+                    @Html.TextBoxFor(e => e.Address, new { @readonly = "readonly" })
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(e => e.EmailId)
+                </td>
+                <td>
+                    @Html.TextBoxFor(e => e.EmailId, new { @readonly = "readonly" })
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <br />
+                    <input type="submit" value="Delete" />
+                </td>
+            </tr>
+        </table>
+    }
+</div>

@@ -1,0 +1,6 @@
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day29\ADOdemo\obj\Debug\net9.0\ADOdemo.csproj.AssemblyReference.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day29\ADOdemo\obj\Debug\net9.0\ADOdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day29\ADOdemo\obj\Debug\net9.0\ADOdemo.AssemblyInfoInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day29\ADOdemo\obj\Debug\net9.0\ADOdemo.AssemblyInfo.cs
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day29\ADOdemo\obj\Debug\net9.0\ADOdemo.csproj.CoreCompileInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day29\ADOdemo\obj\Debug\net9.0\ADOdemo.sourcelink.json

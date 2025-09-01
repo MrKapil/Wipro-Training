@@ -1,0 +1,66 @@
+<--AddEmployee.cshtml-->
+
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@model RepoDesignPattern.Models.Employee
+
+@{
+    ViewBag.Title = "AddEmployee";
+}
+
+<div align="center">
+    <h3>Employee Managment</h3>
+    <br>
+    <b>Add New Employee</b>
+    <br>
+    <br>
+
+    @using (Html.BeginForm("AddEmployee","Employee", FormMethod.Post))
+    {
+        <table>
+            <tr>
+                <td colspan="2">
+                    @if(ViewBag.Failed !=null)
+                    {
+                        <span style="color: red;">@ViewBag.Failed</span>
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(e => e.EmployeeName)
+                </td>
+                <td>
+                    @Html.TextBoxFor(e => e.EmployeeName)
+                    <br>
+                    @Html.ValidationMessageFor(e => e.EmployeeName, null, new { style = "color:red;"})
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(e => e.Address)
+                </td>
+                <td>
+                    @Html.TextBoxFor(e => e.Address)
+                    <br>
+                    @Html.ValidationMessageFor(e => e.Address, null, new { style = "color:red;"})
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(e => e.EmailId)
+                </td>
+                <td>
+                    @Html.TextBoxFor(e => e.EmailId)
+                    <br>
+                    @Html.ValidationMessageFor(e => e.EmailId, null, new { style = "color:red;"})
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <br />
+                    <input type="submit" value="Submit">
+                </td>
+            </tr>
+        </table>
+    }
+</div>

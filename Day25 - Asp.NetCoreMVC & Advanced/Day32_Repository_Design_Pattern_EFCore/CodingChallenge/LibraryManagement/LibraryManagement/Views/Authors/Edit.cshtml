@@ -1,0 +1,35 @@
+@model LibraryManagementSystem.Models.Author
+@{
+    ViewData["Title"] = "Edit Author";
+}
+
+<h2>Edit Author</h2>
+<form id="editAuthorForm">
+    <input type="hidden" asp-for="AuthorId" />
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Update</button>
+</form>
+
+@section Scripts {
+    <script>
+        $("#editAuthorForm").submit(function(e){
+            e.preventDefault();
+            var formData = $(this).serialize();
+            $.ajax({
+                url: '/Author/Edit',
+                type: 'POST',
+                data: formData,
+                success: function(response){
+                    if(response.success){
+                        window.location.href = '/Author';
+                    } else {
+                        alert("Error updating author");
+                    }
+                }
+            });
+        });
+    </script>
+}

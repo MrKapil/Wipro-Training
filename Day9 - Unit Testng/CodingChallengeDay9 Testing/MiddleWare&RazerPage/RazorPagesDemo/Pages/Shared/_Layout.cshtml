@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - RazorPagesDemo</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <a asp-page="/Index">Home</a> |
+            <a asp-page="/Items/Index">Items</a> |
+            <a asp-page="/Items/Create">Add Item</a>
+        </nav>
+    </header>
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</body>
+</html>

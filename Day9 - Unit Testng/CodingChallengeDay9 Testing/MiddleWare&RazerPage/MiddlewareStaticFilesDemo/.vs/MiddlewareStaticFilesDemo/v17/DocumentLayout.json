@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\middleware\u0026razerpage\\middlewarestaticfilesdemo\\middlewarestaticfilesdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|solutionrelative:middlewarestaticfilesdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\middleware\u0026razerpage\\middlewarestaticfilesdemo\\middlewarestaticfilesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|solutionrelative:middlewarestaticfilesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\middleware\u0026razerpage\\middlewarestaticfilesdemo\\middlewarestaticfilesdemo\\wwwroot\\error\\500.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|solutionrelative:middlewarestaticfilesdemo\\wwwroot\\error\\500.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\middleware\u0026razerpage\\middlewarestaticfilesdemo\\middlewarestaticfilesdemo\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|solutionrelative:middlewarestaticfilesdemo\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\middleware\u0026razerpage\\middlewarestaticfilesdemo\\middlewarestaticfilesdemo\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|solutionrelative:middlewarestaticfilesdemo\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\middleware\u0026razerpage\\middlewarestaticfilesdemo\\middlewarestaticfilesdemo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|solutionrelative:middlewarestaticfilesdemo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|c:\\users\\kapil\\desktop\\wipro training\\unit testing - day9\\codingchallengeday9 testing\\middleware\u0026razerpage\\middlewarestaticfilesdemo\\middlewarestaticfilesdemo\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAC50DE-877D-45C3-9893-7F3A5F9A9B9F}|MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo.csproj|solutionrelative:middlewarestaticfilesdemo\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareStaticFilesDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\Program.cs",
+              "RelativeToolTip": "MiddlewareStaticFilesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:23:33.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "MiddlewareStaticFilesDemo\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\wwwroot\\index.html",
+              "RelativeToolTip": "MiddlewareStaticFilesDemo\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-28T11:18:08.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "MiddlewareStaticFilesDemo\\wwwroot\\styles.css",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\wwwroot\\styles.css",
+              "RelativeToolTip": "MiddlewareStaticFilesDemo\\wwwroot\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-28T11:18:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "MiddlewareStaticFilesDemo\\wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\wwwroot\\app.js",
+              "RelativeToolTip": "MiddlewareStaticFilesDemo\\wwwroot\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-28T11:18:49.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "500.html",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\wwwroot\\error\\500.html",
+              "RelativeDocumentMoniker": "MiddlewareStaticFilesDemo\\wwwroot\\error\\500.html",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\wwwroot\\error\\500.html",
+              "RelativeToolTip": "MiddlewareStaticFilesDemo\\wwwroot\\error\\500.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-28T11:19:24.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestResponseLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareStaticFilesDemo\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeToolTip": "MiddlewareStaticFilesDemo\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:16:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\Startup.cs",
+              "RelativeDocumentMoniker": "MiddlewareStaticFilesDemo\\Startup.cs",
+              "ToolTip": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Unit Testing - Day9\\CodingChallengeDay9 Testing\\MiddleWare\u0026RazerPage\\MiddlewareStaticFilesDemo\\MiddlewareStaticFilesDemo\\Startup.cs",
+              "RelativeToolTip": "MiddlewareStaticFilesDemo\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:15:52.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

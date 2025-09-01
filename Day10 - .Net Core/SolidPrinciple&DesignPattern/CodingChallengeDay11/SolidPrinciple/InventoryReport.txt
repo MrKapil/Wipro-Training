@@ -1,0 +1,4 @@
+[PDF FORMAT]
+Title: Inventory Report
+Content:
+Inventory details with quantities and stock levels...

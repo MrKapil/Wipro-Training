@@ -1,0 +1,22 @@
+@model IEnumerable<SecureLoginApp.Models.UserViewModel>
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h2>Admin Dashboard</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr><th>Username</th><th>Email</th><th>Roles</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Username</td>
+                <td>@u.Email</td>
+                <td>@string.Join(", ", u.Roles ?? Enumerable.Empty<string>())</td>
+            </tr>
+        }
+    </tbody>
+</table>

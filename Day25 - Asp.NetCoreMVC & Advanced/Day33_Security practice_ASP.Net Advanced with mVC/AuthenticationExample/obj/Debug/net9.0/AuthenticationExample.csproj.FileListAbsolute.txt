@@ -1,0 +1,9 @@
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\AuthenticationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\AuthenticationExample.AssemblyInfoInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\AuthenticationExample.AssemblyInfo.cs
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\AuthenticationExample.csproj.CoreCompileInputs.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\AuthenticationExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\AuthenticationExample.RazorAssemblyInfo.cache
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\AuthenticationExample.RazorAssemblyInfo.cs
+C:\Users\KAPIL\Desktop\Wipro Training\Asp.NetCoreMVC & Advanced\Day33_Security practice_ASP.Net Advanced with mVC\AuthenticationExample\obj\Debug\net9.0\AuthenticationExample.sourcelink.json

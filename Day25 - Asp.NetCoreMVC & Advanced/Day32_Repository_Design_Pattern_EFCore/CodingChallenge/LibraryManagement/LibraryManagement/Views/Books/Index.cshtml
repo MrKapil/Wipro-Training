@@ -1,0 +1,37 @@
+@model IEnumerable<LibraryManagementSystem.Models.Book>
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h2>Books</h2>
+<a href="@Url.Action("Create")" class="btn btn-primary" id="addBookBtn">Add Book</a>
+<div id="bookList">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genres</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var book in Model)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author.Name</td>
+                    <td>@string.Join(", ", book.Genres.Select(g => g.Name))</td>
+                    <td>
+                        <a href="@Url.Action("Edit", new { id = book.BookId })" class="btn btn-sm btn-warning editBookBtn">Edit</a>
+                        <button class="btn btn-sm btn-danger deleteBookBtn" data-id="@book.BookId">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="~/js/book.js"></script>
+}

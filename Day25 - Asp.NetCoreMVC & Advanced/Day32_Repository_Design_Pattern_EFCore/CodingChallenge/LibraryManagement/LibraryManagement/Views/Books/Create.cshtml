@@ -1,0 +1,55 @@
+@model LibraryManagementSystem.Models.Book
+@{
+    ViewData["Title"] = "Add Book";
+    var authors = ViewBag.Authors as IEnumerable<LibraryManagementSystem.Models.Author>;
+    var genres = ViewBag.Genres as IEnumerable<LibraryManagementSystem.Models.Genre>;
+}
+
+<h2>Add Book</h2>
+<form id="createBookForm">
+    <div class="form-group">
+        <label>Title</label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Author</label>
+        <select asp-for="AuthorId" class="form-control">
+            @foreach(var author in authors)
+            {
+                <option value="@author.AuthorId">@author.Name</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Genres</label>
+        <select multiple class="form-control" id="selectedGenres">
+            @foreach(var genre in genres)
+            {
+                <option value="@genre.GenreId">@genre.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Save</button>
+</form>
+
+@section Scripts {
+    <script>
+        $("#createBookForm").submit(function(e){
+            e.preventDefault();
+            var formData = $(this).serializeArray();
+            var selectedGenres = $("#selectedGenres").val();
+            $.ajax({
+                url: '/Book/Create',
+                type: 'POST',
+                data: formData.concat({name:'selectedGenres', value: selectedGenres}),
+                success: function(response){
+                    if(response.success){
+                        window.location.href = '/Book';
+                    } else {
+                        alert(response.message || "Error saving book");
+                    }
+                }
+            });
+        });
+    </script>
+}

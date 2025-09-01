@@ -1,0 +1,35 @@
+@model LibraryManagementSystem.Models.Genre
+@{
+    ViewData["Title"] = "Edit Genre";
+}
+
+<h2>Edit Genre</h2>
+<form id="editGenreForm">
+    <input type="hidden" asp-for="GenreId" />
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Update</button>
+</form>
+
+@section Scripts {
+    <script>
+        $("#editGenreForm").submit(function(e){
+            e.preventDefault();
+            var formData = $(this).serialize();
+            $.ajax({
+                url: '/Genre/Edit',
+                type: 'POST',
+                data: formData,
+                success: function(response){
+                    if(response.success){
+                        window.location.href = '/Genre';
+                    } else {
+                        alert("Error updating genre");
+                    }
+                }
+            });
+        });
+    </script>
+}

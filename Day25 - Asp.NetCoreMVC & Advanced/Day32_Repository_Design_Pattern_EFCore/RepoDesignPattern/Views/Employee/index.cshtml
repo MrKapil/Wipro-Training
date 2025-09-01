@@ -1,0 +1,37 @@
+@model IEnumerable<RepoDesignPattern.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div align="center">
+    <h3>Employee Management</h3>
+    <span>
+        <a href="@Url.Action("AddEmployee", "Employee")">Add Employee</a>
+    </span>
+
+    <br>
+    <br>
+    <table cellpadding="5" border="1">
+        <tr style="background-color: #808080; color: white">
+            <td>Employee Id</td>
+            <td>Name</td>
+            <td>address</td>
+            <td>Email Id</td>
+            <td>Action</td>
+        </tr>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.EmployeeId</td>
+                <td>@emp.EmployeeName</td>
+                <td>@emp.Address</td>
+                <td>@emp.EmailId</td>
+                <td>
+                    <a href="@Url.Action("EditEmployee", "Employee", new { EmployeeId = emp.EmployeeId})">Edit</a>
+                    <a href="@Url.Action("DeleteEmployee", "Employee", new { EmployeeId = emp.EmployeeId}) ">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

@@ -1,0 +1,28 @@
+@model IEnumerable<LibraryManagement.Models.Book>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Genres</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var book in Model)
+    {
+        <tr>
+            <td>@book.Title</td>
+            <td>@book.Author?.Name</td>
+            <td>
+                @string.Join(", ", book.BookGenres.Select(bg => bg.Genre.Name))
+            </td>
+            <td>
+                <button class="btn btn-sm btn-secondary btn-edit" data-id="@book.BookId">Edit</button>
+                <button class="btn btn-sm btn-danger btn-delete" data-id="@book.BookId">Delete</button>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

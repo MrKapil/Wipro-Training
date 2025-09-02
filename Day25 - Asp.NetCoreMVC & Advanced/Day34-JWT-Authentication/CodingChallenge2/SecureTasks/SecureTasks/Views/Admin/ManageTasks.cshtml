@@ -1,0 +1,19 @@
+@model IEnumerable<SecureTasks.Models.TaskItem>
+@{
+    ViewData["Title"] = "Manage Tasks";
+}
+<h2>Manage Tasks (Admin)</h2>
+<table class="table table-striped">
+    <thead><tr><th>Title</th><th>Description</th><th>OwnerId</th><th>Created</th></tr></thead>
+    <tbody>
+    @foreach (var t in Model)
+    {
+        <tr>
+            <td>@Html.Encode(t.Title)</td>
+            <td>@Html.Encode(t.Description)</td>
+            <td>@Html.Encode(t.OwnerId)</td>
+            <td>@t.CreatedUtc.ToLocalTime()</td>
+        </tr>
+    }
+    </tbody>
+</table>

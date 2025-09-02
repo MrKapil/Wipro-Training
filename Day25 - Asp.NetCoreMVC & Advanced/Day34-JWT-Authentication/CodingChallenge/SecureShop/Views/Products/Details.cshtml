@@ -1,0 +1,12 @@
+@model SecureShop.Models.Product
+
+<h2>@Html.Encode(Model.Name)</h2>
+<p><strong>Price:</strong> @Model.Price</p>
+<p><strong>Description:</strong> @Html.Encode(Model.Description)</p>
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Customer"))
+{
+    <form method="post" asp-action="Order" asp-route-id="@Model.Id">
+        <button type="submit" class="btn btn-primary">Buy Now</button>
+    </form>
+}

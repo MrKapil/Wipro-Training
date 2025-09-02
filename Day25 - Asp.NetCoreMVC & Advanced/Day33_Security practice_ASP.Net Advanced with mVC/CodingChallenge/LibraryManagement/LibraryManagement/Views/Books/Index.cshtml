@@ -1,0 +1,13 @@
+@model IEnumerable<LibraryManagement.Models.Book>
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<div class="mb-3">
+    <button id="btnAddBook" class="btn btn-primary">Add Book</button>
+</div>
+
+<div id="booksList">
+    @await Html.PartialAsync("_BookListPartial", Model)
+</div>

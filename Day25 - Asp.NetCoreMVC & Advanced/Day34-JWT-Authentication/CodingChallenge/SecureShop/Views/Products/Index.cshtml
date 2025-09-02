@@ -1,0 +1,18 @@
+@model IEnumerable<SecureShop.Models.Product>
+
+<h2>Products</h2>
+<table class="table">
+    <tr><th>Name</th><th>Price</th><th></th></tr>
+@foreach (var p in Model)
+{
+    <tr>
+        <td>@Html.Encode(p.Name)</td>
+        <td>@p.Price</td>
+        <td><a asp-action="Details" asp-route-id="@p.Id">View</a></td>
+    </tr>
+}
+</table>
+@if (User.IsInRole("Admin"))
+{
+    <a asp-action="Create" class="btn btn-success">Add Product</a>
+}

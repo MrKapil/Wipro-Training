@@ -1,0 +1,19 @@
+@model IEnumerable<SecureTasks.Models.TaskItem>
+@{
+    ViewData["Title"] = "My Tasks";
+}
+<h2>My Tasks</h2>
+<p><a class="btn btn-success" asp-controller="Tasks" asp-action="Create">Create Task</a></p>
+<table class="table">
+    <thead><tr><th>Title</th><th>Created</th><th></th></tr></thead>
+    <tbody>
+    @foreach (var t in Model)
+    {
+        <tr>
+            <td>@Html.Encode(t.Title)</td>
+            <td>@t.CreatedUtc.ToLocalTime()</td>
+            <td><a class="btn btn-sm btn-secondary" asp-controller="Tasks" asp-action="Edit" asp-route-id="@t.Id">Edit</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

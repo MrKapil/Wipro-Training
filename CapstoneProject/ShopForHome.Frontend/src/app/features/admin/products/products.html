@@ -1,0 +1,127 @@
+<div class="products-management">
+  <div class="header">
+    <h1>Product Management</h1>
+    <div class="header-actions">
+      <button (click)="showBulkUpload = true" class="btn-secondary">Bulk Upload</button>
+      <button (click)="addProduct()" class="btn-primary">Add Product</button>
+    </div>
+  </div>
+
+  <div class="products-table">
+    <table>
+      <thead>
+        <tr>
+          <th>Image</th>
+          <th>Name</th>
+          <th>SKU</th>
+          <th>Category</th>
+          <th>Price</th>
+          <th>Rating</th>
+          <th>Status</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products">
+          <td>
+            <img [src]="'assets/images/' + product.imageFileName" 
+                 alt="{{ product.name }}" class="product-image">
+          </td>
+          <td>{{ product.name }}</td>
+          <td>{{ product.sku }}</td>
+          <td>{{ getCategoryName(product.categoryId ?? 0) }}</td>
+          <td>₹{{ product.price | number:'1.0-2' }}</td>
+          <td>⭐ {{ product.rating }}</td>
+          <td>
+            <span [class]="product.isActive ? 'status-active' : 'status-inactive'">
+              {{ product.isActive ? 'Active' : 'Inactive' }}
+            </span>
+          </td>
+          <td>
+            <button (click)="editProduct(product)" class="btn-edit">Edit</button>
+            <button (click)="deleteProduct(product.productId)" class="btn-delete">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Product Form Modal -->
+  <div *ngIf="showForm" class="modal-overlay">
+    <div class="modal">
+      <h3>{{ isEditing ? 'Edit Product' : 'Add New Product' }}</h3>
+      
+      <form (ngSubmit)="saveProduct()">
+        <div class="form-row">
+          <div class="form-group">
+            <label>Product Name</label>
+            <input type="text" [(ngModel)]="currentProduct.name" name="name" required>
+          </div>
+          <div class="form-group">
+            <label>SKU</label>
+            <input type="text" [(ngModel)]="currentProduct.sku" name="sku" required>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>Description</label>
+          <textarea [(ngModel)]="currentProduct.description" name="description" rows="3"></textarea>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label>Price</label>
+            <input type="number" [(ngModel)]="currentProduct.price" name="price" step="0.01" required>
+          </div>
+          <div class="form-group">
+            <label>Rating</label>
+            <input type="number" [(ngModel)]="currentProduct.rating" name="rating" min="0" max="5" step="0.1">
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label>Category</label>
+            <select [(ngModel)]="currentProduct.categoryId" name="categoryId" required>
+              <option value="">Select Category</option>
+                <option *ngFor="let category of categories" [value]="category.categoryId">{{category.name}}</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Image Filename</label>
+            <input type="text" [(ngModel)]="currentProduct.imageFileName" name="imageFileName">
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>
+            <input type="checkbox" [(ngModel)]="currentProduct.isActive" name="isActive">
+            Active
+          </label>
+        </div>
+
+        <div class="form-actions">
+          <button type="submit" class="btn-primary">Save Product</button>
+          <button type="button" (click)="closeForm()" class="btn-cancel">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Bulk Upload Modal -->
+  <div *ngIf="showBulkUpload" class="modal-overlay">
+    <div class="modal">
+      <h3>Bulk Product Upload</h3>
+      <p>Upload a CSV file with the following columns:</p>
+      <code>Name,SKU,Description,Price,Rating,CategoryId,ImageFileName</code>
+      
+      <div class="upload-area">
+        <input type="file" accept=".csv" (change)="onFileSelected($event)" />
+      </div>
+
+      <div class="form-actions">
+        <button type="button" (click)="showBulkUpload = false" class="btn-cancel">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>

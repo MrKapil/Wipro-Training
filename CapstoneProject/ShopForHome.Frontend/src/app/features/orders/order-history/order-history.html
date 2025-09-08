@@ -1,0 +1,59 @@
+<div class="order-history-container">
+  <div class="header">
+    <h2>My Order History</h2>
+    <p>Track and view all your past orders</p>
+  </div>
+
+  <div *ngIf="loading" class="loading">
+    <p>Loading your orders...</p>
+  </div>
+
+  <div *ngIf="error" class="error">
+    <p>{{ error }}</p>
+    <button (click)="loadOrderHistory()" class="retry-btn">Retry</button>
+  </div>
+
+  <div *ngIf="!loading && orders.length === 0" class="empty-state">
+    <h3>No Orders Found</h3>
+    <p>You haven't placed any orders yet.</p>
+    <a routerLink="/products" class="shop-btn">Start Shopping</a>
+  </div>
+
+  <div *ngIf="!loading && orders.length > 0" class="orders-list">
+    <div *ngFor="let order of orders" class="order-card">
+      <div class="order-header">
+        <div class="order-info">
+          <h4>Order #{{ order.orderId }}</h4>
+          <p class="order-date">{{ order.orderDate | date:'medium' }}</p>
+        </div>
+        <div class="order-status">
+          <span 
+            class="status-badge" 
+            [style.background-color]="getStatusColor(order.status)">
+            {{ order.status || 'Completed' }}
+          </span>
+        </div>
+      </div>
+
+      <div class="order-items">
+        <div *ngFor="let item of order.items" class="order-item">
+          <div class="item-info">
+            <span class="item-name">{{ item.productName }}</span>
+            <span class="item-qty">Qty: {{ item.quantity }}</span>
+          </div>
+          <span class="item-price">₹{{ item.unitPrice | number:'1.0-2' }}</span>
+        </div>
+      </div>
+
+      <div class="order-footer">
+        <div class="order-total">
+          <strong>Total: ₹{{ order.totalAmount | number:'1.0-2' }}</strong>
+        </div>
+        <div class="order-actions">
+          <button class="action-btn secondary">View Details</button>
+          <button class="action-btn primary">Reorder</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

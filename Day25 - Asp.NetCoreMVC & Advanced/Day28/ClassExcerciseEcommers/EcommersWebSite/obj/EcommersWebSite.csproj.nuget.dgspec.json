@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\EcommersWebSite.csproj": {}
+    "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Day25 - Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\EcommersWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\EcommersWebSite.csproj": {
+    "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Day25 - Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\EcommersWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\EcommersWebSite.csproj",
+        "projectUniqueName": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Day25 - Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\EcommersWebSite.csproj",
         "projectName": "EcommersWebSite",
-        "projectPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\EcommersWebSite.csproj",
+        "projectPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Day25 - Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\EcommersWebSite.csproj",
         "packagesPath": "C:\\Users\\KAPIL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\obj\\",
+        "outputPath": "C:\\Users\\KAPIL\\Desktop\\Wipro Training\\Day25 - Asp.NetCoreMVC & Advanced\\Day28\\ClassExcerciseEcommers\\EcommersWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

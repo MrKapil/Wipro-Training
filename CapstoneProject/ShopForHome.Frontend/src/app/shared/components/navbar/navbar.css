@@ -1,0 +1,208 @@
+.navbar {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 20px;
+  }
+
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    
+    .logo-icon {
+      margin-right: 8px;
+      font-size: 28px;
+    }
+    
+    .brand-text {
+      font-family: 'Georgia', serif;
+    }
+    
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+
+  .navbar-nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+
+    .nav-item {
+      .nav-link {
+        color: white;
+        text-decoration: none;
+        padding: 8px 16px;
+        border-radius: 6px;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-weight: 500;
+
+        .icon {
+          font-size: 16px;
+        }
+
+        &:hover {
+          background: rgba(255,255,255,0.1);
+        }
+
+        &.active {
+          background: rgba(255,255,255,0.2);
+          font-weight: 600;
+        }
+      }
+    }
+  }
+
+  .navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    .cart-link {
+      color: white;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 12px;
+      border-radius: 6px;
+      transition: all 0.3s ease;
+      position: relative;
+
+      .cart-badge {
+        background: #ff4757;
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 2px 6px;
+        border-radius: 10px;
+        position: absolute;
+        top: -2px;
+        right: -6px;
+        min-width: 18px;
+        text-align: center;
+      }
+
+      &:hover, &.active {
+        background: rgba(255,255,255,0.1);
+      }
+    }
+
+    .admin-link {
+      color: #ffd700;
+      text-decoration: none;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+
+      &:hover, &.active {
+        background: rgba(255,215,0,0.2);
+      }
+    }
+
+    .auth-menu {
+      .guest-links {
+        display: flex;
+        gap: 10px;
+      }
+
+      .user-menu {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+
+        .welcome-text {
+          color: white;
+          font-weight: 500;
+        }
+      }
+    }
+
+    .btn {
+      padding: 8px 16px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid transparent;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.3s ease;
+
+      &.btn-primary {
+        background: #ff4757;
+        color: white;
+        border-color: #ff4757;
+
+        &:hover {
+          background: #ff3742;
+          transform: translateY(-1px);
+        }
+      }
+
+      &.btn-outline {
+        background: transparent;
+        color: white;
+        border-color: white;
+
+        &:hover {
+          background: white;
+          color: #667eea;
+        }
+      }
+    }
+  }
+}
+
+
+@media (max-width: 768px) {
+  .navbar {
+    .container {
+      padding: 10px 15px;
+    }
+
+    .navbar-nav {
+      display: none; 
+
+    .navbar-brand {
+      font-size: 20px;
+      
+      .logo-icon {
+        font-size: 24px;
+      }
+    }
+
+    .navbar-right {
+      gap: 10px;
+
+      .btn {
+        padding: 6px 12px;
+        font-size: 14px;
+      }
+    }
+  }
+}
+}

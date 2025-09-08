@@ -1,0 +1,109 @@
+<div class="home-page">
+
+  <!-- Top Banner -->
+  <div class="top-banner">
+    🎉 Upto ₹2,500 Off on Your First Purchase | Free Shipping | Use Code: WELCOME2500
+  </div>
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="container hero-grid">
+      <div class="hero-content">
+        <h1>
+          Buy Furniture & <span>Home Décor</span>
+        </h1>
+        <p>
+          Transform your space with premium furniture, lighting & décor at unbeatable prices
+        </p>
+        <div class="hero-buttons">
+          <a routerLink="/products" class="btn btn-primary">Shop Now</a>
+          <a class="btn btn-outline">Explore Collections</a>
+        </div>
+      </div>
+
+      <div class="special-offers">
+        <h3>Special Offers</h3>
+        <div class="offers-grid">
+          <div class="offer-card"><div class="offer-number">40%</div><div class="offer-text">OFF Furniture</div></div>
+          <div class="offer-card"><div class="offer-number">Free</div><div class="offer-text">Shipping</div></div>
+          <div class="offer-card"><div class="offer-number">EMI</div><div class="offer-text">No Cost EMI</div></div>
+          <div class="offer-card"><div class="offer-number">7 Day</div><div class="offer-text">Easy Return</div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="categories-section">
+    <h2 class="section-title">Shop by Category</h2>
+    <div class="categories-grid">
+      <div *ngFor="let category of categories" class="category-card" (click)="filterByCategory(category.id)">
+        <div class="category-icon">🏠</div>
+        <h3 class="category-name">{{category.name}}</h3>
+        <p class="category-count">{{category.productCount}}+ Products</p>
+        <button class="category-button">Browse →</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Products -->
+  <section class="products-section">
+    <div class="products-header">
+      <h2>Featured Products</h2>
+      <a routerLink="/products" class="view-all-btn">View All →</a>
+    </div>
+
+    <div class="products-grid" *ngIf="!loading">
+      <div *ngFor="let product of featuredProducts" class="product-card">
+        <div class="product-image">
+          <img [src]="getImageUrl(product.imageFileName)" [alt]="product.name" (click)="viewProduct(product.id)" />
+          <div *ngIf="product.discount" class="discount-badge">{{product.discount}}% OFF</div>
+          <div class="product-actions">
+            <button class="action-btn" (click)="addToWishlist(product.id)">❤️</button>
+            <button class="action-btn">👁️</button>
+          </div>
+        </div>
+
+        <div class="product-info">
+          <div class="product-category">Category</div>
+          <h3 class="product-name">{{product.name}}</h3>
+          <p class="product-description">{{product.description}}</p>
+
+          <div class="product-rating">
+            <div class="stars">{{getStarRating(product.rating)}}</div>
+            <span class="rating-text">({{product.reviewCount}})</span>
+          </div>
+
+          <div class="product-pricing">
+            <div class="price-container">
+              <span class="current-price">{{formatPrice(product.price)}}</span>
+              <span class="original-price">{{formatPrice(product.originalPrice)}}</span>
+            </div>
+            <span class="stock-info">Stock: {{product.stockQuantity}}</span>
+          </div>
+
+          <div class="product-actions-bottom">
+            <button class="btn add-to-cart" (click)="addToCart(product)">Add to Cart</button>
+            <button class="btn buy-now" (click)="buyNow(product)">Buy Now</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div *ngIf="loading" class="loading-spinner"></div>
+  </section>
+
+  <!-- Banner -->
+  <section class="banner-section">
+    <div class="banner-content">
+      <h2>Mega Festive Sale!</h2>
+      <p>Get up to 70% OFF on selected items + Extra 10% OFF on everything</p>
+      <div class="stats-container">
+        <div class="stat-card"><div class="stat-number">11M+</div><div class="stat-label">Happy Customers</div></div>
+        <div class="stat-card"><div class="stat-number">150+</div><div class="stat-label">Stores</div></div>
+        <div class="stat-card"><div class="stat-number">100+</div><div class="stat-label">Cities</div></div>
+      </div>
+      <a routerLink="/products" class="banner-button">Shop Sale Items</a>
+    </div>
+  </section>
+</div>

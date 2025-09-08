@@ -1,0 +1,11 @@
+body { font-family: Inter, Roboto, Arial, sans-serif; margin:0; }
+.header { background:#0b74d1; color:#fff; padding:18px 24px; display:flex; align-items:center; justify-content:space-between; }
+.header .brand { font-weight:700; font-size:28px; }
+.container { padding:24px; max-width:1150px; margin:0 auto; }
+.product-grid { display:grid; grid-template-columns: repeat(auto-fill,minmax(220px,1fr)); gap:16px; }
+.card { background:#fff; border-radius:8px; padding:12px; box-shadow:0 2px 6px rgba(0,0,0,0.06); }
+.button { background:#0b74d1; color:#fff; border:none; padding:8px 12px; border-radius:6px; cursor:pointer; }
+.small { font-size:13px; color:#666; }
+.topbar { display:flex; gap:8px; align-items:center; }
+.form-row { display:flex; gap:8px; align-items:center; margin-bottom:12px; }
+input, select { padding:8px 10px; border-radius:6px; border:1px solid #ddd; }

@@ -1,0 +1,43 @@
+<div class="stock-management">
+  <h1>Stock Management</h1>
+  <p class="alert-info">⚠️ Products with stock below 10 units</p>
+
+  <div *ngIf="loading" class="loading">Loading...</div>
+
+  <div *ngIf="!loading && lowStockItems.length === 0" class="no-alerts">
+    ✅ All products have sufficient stock!
+  </div>
+
+  <div *ngIf="lowStockItems.length > 0" class="stock-table">
+    <table>
+      <thead>
+        <tr>
+          <th>Product</th>
+          <th>SKU</th>
+          <th>Category</th>
+          <th>Current Stock</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of lowStockItems" class="low-stock-row">
+          <td>
+            <div class="product-info">
+              <img [src]="'assets/images/' + item.imageFileName" alt="{{ item.productName }}" class="product-image">
+              <span>{{ item.productName }}</span>
+            </div>
+          </td>
+          <td>{{ item.sku }}</td>
+          <td>{{ item.categoryName }}</td>
+          <td>
+            <span class="stock-count">{{ item.currentStock }}</span>
+          </td>
+          <td>
+            <input type="number" #newStock [value]="item.currentStock" min="0" class="stock-input">
+            <button (click)="updateStock(item.productId, +newStock.value)" class="btn-update">Update</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

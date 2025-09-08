@@ -1,0 +1,86 @@
+<div class="product-detail-container">
+  <!-- Loading State -->
+  <div *ngIf="loading" class="loading">
+    <p>Loading product details...</p>
+  </div>
+
+  <!-- Product Details -->
+  <div *ngIf="!loading && product" class="product-detail">
+    <!-- Back to Products -->
+    <div class="breadcrumb">
+      <a routerLink="/products">← Back to Products</a>
+    </div>
+
+    <div class="product-content">
+      <!-- Product Image -->
+      <div class="product-image">
+        <img 
+          [src]="getImageUrl(product.imageFileName)" 
+          [alt]="product.name"
+          onerror="this.src='assets/images/placeholder.png'"
+        >
+      </div>
+
+      <!-- Product Info -->
+      <div class="product-info">
+        <h1 class="product-name">{{ product.name }}</h1>
+        
+        <div class="product-meta">
+          <p class="product-category">{{ product.category }}</p>
+          <p class="product-sku">SKU: {{ product.sku }}</p>
+        </div>
+
+        <div class="product-rating" *ngIf="product.rating">
+          <span class="stars">{{ getStarRating(product.rating) }}</span>
+          <span class="rating-number">({{ product.rating }} stars)</span>
+        </div>
+
+        <div class="product-price">
+          <span class="price">{{ formatPrice(product.price) }}</span>
+        </div>
+
+        <div class="product-description" *ngIf="product.description">
+          <h3>Description</h3>
+          <p>{{ product.description }}</p>
+        </div>
+
+        <!-- Quantity and Actions -->
+        <div class="product-actions">
+          <div class="quantity-selector">
+            <label>Quantity:</label>
+            <div class="quantity-controls">
+              <button (click)="decreaseQuantity()" [disabled]="quantity <= 1">-</button>
+              <span class="quantity">{{ quantity }}</span>
+              <button (click)="increaseQuantity()">+</button>
+            </div>
+          </div>
+
+          <div class="action-buttons">
+            <button 
+              (click)="addToCart()" 
+              [disabled]="addingToCart"
+              class="add-to-cart-btn"
+            >
+              {{ addingToCart ? 'Adding...' : 'Add to Cart' }}
+            </button>
+
+            <button 
+              (click)="addToWishlist()" 
+              [disabled]="addingToWishlist"
+              class="add-to-wishlist-btn"
+            >
+              {{ addingToWishlist ? 'Adding...' : '❤️ Wishlist' }}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Product Not Found -->
+  <div *ngIf="!loading && !product" class="not-found">
+    <h2>Product Not Found</h2>
+    <p>The product you're looking for doesn't exist or has been removed.</p>
+    <a routerLink="/products" class="back-link">View All Products</a>
+  </div>
+</div>

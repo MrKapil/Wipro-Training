@@ -1,0 +1,75 @@
+<div class="users-management">
+  <div class="header">
+    <h1>User Management</h1>
+    <button (click)="addUser()" class="btn-primary">Add New User</button>
+  </div>
+
+  <div class="users-table">
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Role</th>
+          <th>Status</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let user of users">
+          <td>{{ user.fullName }}</td>
+          <td>{{ user.email }}</td>
+          <td>{{ user.role }}</td>
+          <td>
+            <span [class]="user.isActive ? 'status-active' : 'status-inactive'">
+              {{ user.isActive ? 'Active' : 'Inactive' }}
+            </span>
+          </td>
+          <td>
+            <button (click)="editUser(user)" class="btn-edit">Edit</button>
+            <button (click)="deleteUser(user.userId)" class="btn-delete">Delete</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- User Form Modal -->
+  <div *ngIf="showForm" class="modal-overlay">
+    <div class="modal">
+      <h3>{{ isEditing ? 'Edit User' : 'Add New User' }}</h3>
+      
+      <form (ngSubmit)="saveUser()">
+        <div class="form-group">
+          <label>Full Name</label>
+          <input type="text" [(ngModel)]="currentUser.fullName" name="fullName" required>
+        </div>
+
+        <div class="form-group">
+          <label>Email</label>
+          <input type="email" [(ngModel)]="currentUser.email" name="email" required>
+        </div>
+
+        <div class="form-group">
+          <label>Role</label>
+          <select [(ngModel)]="currentUser.role" name="role">
+            <option value="User">User</option>
+            <option value="Admin">Admin</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label>
+            <input type="checkbox" [(ngModel)]="currentUser.isActive" name="isActive">
+            Active
+          </label>
+        </div>
+
+        <div class="form-actions">
+          <button type="submit" class="btn-primary">Save</button>
+          <button type="button" (click)="closeForm()" class="btn-cancel">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

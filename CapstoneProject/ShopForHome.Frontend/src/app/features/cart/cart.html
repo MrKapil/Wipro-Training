@@ -1,0 +1,56 @@
+<div class="cart-container">
+  <h2>🛒 Your Shopping Cart</h2>
+
+  <div *ngIf="loading" class="loading">
+    Loading cart...
+  </div>
+
+  <div *ngIf="!loading && (!cart || cart.items.length === 0)" class="empty-cart">
+    <p>Your cart is empty!</p>
+    <a routerLink="/products" class="continue-shopping">Continue Shopping</a>
+  </div>
+
+  <div *ngIf="!loading && cart && cart.items.length > 0" class="cart-content">
+    <div class="cart-items">
+      <div *ngFor="let item of cart.items" class="cart-item">
+        <!-- ✅ use imageFileName -->
+        <img [src]="getImageUrl(item.imageFileName)" [alt]="item.productName">
+
+        <div class="item-details">
+          <!-- ✅ use productName -->
+          <h4>{{ item.productName }}</h4>
+          <!-- ✅ use unitPrice -->
+          <p class="item-price">{{ item.unitPrice | currency:'INR':'symbol':'1.0-2' }}</p>
+        </div>
+
+        <div class="quantity-controls">
+          <button (click)="updateQuantity(item, item.quantity - 1)" class="qty-btn">-</button>
+          <span class="quantity">{{ item.quantity }}</span>
+          <button (click)="updateQuantity(item, item.quantity + 1)" class="qty-btn">+</button>
+        </div>
+
+        <div class="item-total">
+          {{ (item.quantity * item.unitPrice) | currency:'INR':'symbol':'1.0-2' }}
+        </div>
+
+        <button (click)="removeItem(item)" class="remove-btn">🗑️</button>
+      </div>
+    </div>
+
+    <div class="cart-summary">
+      <div class="summary-row">
+        <span>Total Items:</span>
+        <span>{{ cart.items.length }}</span>
+      </div>
+      <div class="summary-row total">
+        <span>Total Amount:</span>
+        <span>{{ total | currency:'INR':'symbol':'1.0-2' }}</span>
+      </div>
+      
+      <div class="cart-actions">
+        <a routerLink="/products" class="continue-shopping">Continue Shopping</a>
+        <a routerLink="/checkout" class="checkout-btn">Proceed to Checkout</a>
+      </div>
+    </div>
+  </div>
+</div>

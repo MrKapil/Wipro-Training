@@ -1,0 +1,4 @@
+Name,SKU,Description,Price,Rating,ImageFileName,CategoryId
+Office Chair,CH-9001,Ergonomic chair,2500,4.3,chair-office.jpg,1
+Dining Table,DT-1002,Wooden dining table,5500,4.6,table-dining.jpg,1
+Laptop,LP-5001,High performance laptop,75000,4.8,laptop.jpg,2

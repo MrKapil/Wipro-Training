@@ -1,0 +1,110 @@
+.admin-coupons {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+
+  h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  .message {
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+
+    &.error {
+      background: #f8d7da;
+      color: #721c24;
+      border-color: #f5c6cb;
+    }
+  }
+
+  .card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+
+    h3 {
+      margin-bottom: 15px;
+      color: #0077cc;
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+
+      label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: 500;
+      }
+
+      input, select {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+      }
+
+      small {
+        color: #666;
+        font-size: 12px;
+      }
+    }
+
+    .btn-primary {
+      background: #0077cc;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+
+      &:hover {
+        background: #005aa3;
+      }
+    }
+  }
+
+  .no-data {
+    text-align: center;
+    color: #666;
+    font-style: italic;
+  }
+
+  .coupon-list {
+    .coupon-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px;
+      border: 1px solid #eee;
+      border-radius: 4px;
+      margin-bottom: 8px;
+
+      .coupon-info {
+        display: flex;
+        gap: 15px;
+        align-items: center;
+
+        strong {
+          color: #0077cc;
+        }
+
+        span {
+          background: #f8f9fa;
+          padding: 4px 8px;
+          border-radius: 12px;
+          font-size: 12px;
+        }
+      }
+    }
+  }
+}

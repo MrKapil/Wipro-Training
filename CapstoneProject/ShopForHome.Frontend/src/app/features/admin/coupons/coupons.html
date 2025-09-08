@@ -1,0 +1,66 @@
+<div class="admin-coupons">
+
+  <!-- Success/Error Message -->
+  <div *ngIf="message" class="message" [class.error]="message.includes('Failed')">
+    {{ message }}
+  </div>
+
+  <!-- Create New Coupon -->
+  <div class="card">
+    <h3>Create New Coupon</h3>
+    <form (ngSubmit)="createCoupon()">
+      <div class="form-group">
+        <label>Coupon Code:</label>
+        <input type="text" [(ngModel)]="newCouponCode" name="code" placeholder="e.g., SALE10" required>
+      </div>
+      
+      <div class="form-group">
+        <label>Discount Percent:</label>
+        <input type="number" [(ngModel)]="newDiscountPercent" name="discount" min="1" max="100" placeholder="e.g., 10" required>
+        <small>Enter number (e.g., 10 for 10% off)</small>
+      </div>
+      
+      <button type="submit" class="btn-primary">Create Coupon</button>
+    </form>
+  </div>
+
+  <!-- Assign Coupon to User -->
+  <div class="card">
+    <h3>Assign Coupon to User</h3>
+    <form (ngSubmit)="assignCoupon()">
+      <div class="form-group">
+        <label>Select Coupon:</label>
+        <select [(ngModel)]="selectedCouponId" name="couponId" required>
+          <option value="0">-- Select Coupon --</option>
+          <option *ngFor="let c of coupons" [value]="c.couponId">
+            {{ c.code }} ({{ c.discountPercent }}% off)
+          </option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label>User ID:</label>
+        <input type="number" [(ngModel)]="targetUserId" name="userId" placeholder="Enter User ID" required>
+      </div>
+      
+      <button type="submit" class="btn-primary">Assign Coupon</button>
+    </form>
+  </div>
+
+  <!-- Existing Coupons List -->
+  <div class="card">
+    <h3>Existing Coupons</h3>
+    <div *ngIf="coupons.length === 0" class="no-data">
+      No coupons found.
+    </div>
+    
+    <div class="coupon-list" *ngIf="coupons.length > 0">
+      <div *ngFor="let coupon of coupons" class="coupon-item">
+        <div class="coupon-info">
+          <strong>{{ coupon.code }}</strong>
+          <span>{{ coupon.discountPercent }}% off</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

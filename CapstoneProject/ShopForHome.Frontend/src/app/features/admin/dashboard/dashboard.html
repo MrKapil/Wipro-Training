@@ -1,0 +1,46 @@
+<div class="admin-dashboard">
+
+  <div class="stats-grid">
+    <div class="stat-card">
+      <h3>{{ stats.totalUsers }}</h3>
+      <p>Total Users</p>
+      <a routerLink="/admin/users">Manage Users</a>
+    </div>
+
+    <div class="stat-card">
+      <h3>{{ stats.totalProducts }}</h3>
+      <p>Total Products</p>
+      <a routerLink="/admin/products">Manage Products</a>
+    </div>
+
+    <div class="stat-card">
+      <h3>{{ stats.lowStockCount }}</h3>
+      <p>Low Stock Items</p>
+      <a routerLink="/admin/stock">View Alerts</a>
+    </div>
+
+    <div class="stat-card">
+      <h3>{{ stats.totalOrders }}</h3>
+      <p>Total Orders</p>
+      <a routerLink="/admin/reports">View Reports</a>
+    </div>
+  </div>
+
+  <div class="quick-actions">
+    <h2>Quick Actions</h2>
+    <div class="actions-grid">
+      <button routerLink="/admin/products" class="action-btn">
+        📦 Add Product
+      </button>
+      <button routerLink="/admin/coupons" class="action-btn">
+        🎫 Create Coupon
+      </button>
+      <button routerLink="/admin/users" class="action-btn">
+        👥 Manage Users
+      </button>
+      <button routerLink="/admin/reports" class="action-btn">
+        📊 Sales Report
+      </button>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,91 @@
+.stock-management {
+  padding: 20px;
+
+  .alert-info {
+    background: #fff3cd;
+    color: #856404;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 20px 0;
+  }
+
+  .no-alerts {
+    background: #d1edff;
+    color: #0c5460;
+    padding: 20px;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .stock-table {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+
+      th, td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #eee;
+      }
+
+      th {
+        background: #f8f9fa;
+        font-weight: 600;
+      }
+    }
+
+    .low-stock-row {
+      background: #fff5f5;
+    }
+
+    .product-info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+
+      .product-image {
+        width: 40px;
+        height: 40px;
+        object-fit: cover;
+        border-radius: 4px;
+      }
+    }
+
+    .stock-count {
+      background: #dc3545;
+      color: white;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+
+    .stock-input {
+      width: 80px;
+      padding: 6px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      margin-right: 10px;
+    }
+
+    .btn-update {
+      background: #28a745;
+      color: white;
+      border: none;
+      padding: 6px 12px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+  }
+
+  .loading {
+    text-align: center;
+    padding: 40px;
+    font-size: 18px;
+  }
+}

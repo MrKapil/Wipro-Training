@@ -1,0 +1,6 @@
+<h2>Bulk product upload</h2>
+<p>CSV header example: Name,SKU,Description,Price,Rating,ImageFileName,CategoryId</p>
+<input type="file" (change)="onFile($event)" accept=".csv" />
+<button class="btn" (click)="upload()">Upload</button>
+
+<pre *ngIf="result">{{result | json}}</pre>

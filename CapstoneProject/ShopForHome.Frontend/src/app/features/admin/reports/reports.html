@@ -1,0 +1,79 @@
+<div class="reports-management">
+  <h1>Sales Reports</h1>
+
+  <div class="date-filters">
+    <div class="form-group">
+      <label>From Date</label>
+      <input type="date" [(ngModel)]="startDate" class="date-input">
+    </div>
+    
+    <div class="form-group">
+      <label>To Date</label>
+      <input type="date" [(ngModel)]="endDate" class="date-input">
+    </div>
+    
+    <button (click)="generateReport()" class="btn-primary" [disabled]="loading">
+      {{ loading ? 'Generating...' : 'Generate Report' }}
+    </button>
+  </div>
+
+  <div *ngIf="report" class="report-content">
+    <!-- Summary Cards -->
+    <div class="summary-cards">
+      <div class="summary-card">
+        <h3>{{ report.totalOrders }}</h3>
+        <p>Total Orders</p>
+      </div>
+      <div class="summary-card">
+        <h3>₹{{ report.totalRevenue | number:'1.0-2' }}</h3>
+        <p>Total Revenue</p>
+      </div>
+      <div class="summary-card">
+        <h3>₹{{ report.averageOrderValue | number:'1.0-2' }}</h3>
+        <p>Avg Order Value</p>
+      </div>
+    </div>
+
+    <!-- Top Products -->
+    <div class="report-section">
+      <h2>Top Selling Products</h2>
+      <table class="report-table">
+        <thead>
+          <tr>
+            <th>Product</th>
+            <th>Quantity Sold</th>
+            <th>Revenue</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let product of report.topProducts">
+            <td>{{ product.productName }}</td>
+            <td>{{ product.quantitySold }}</td>
+            <td>₹{{ product.revenue | number:'1.0-2' }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Daily Sales -->
+    <div class="report-section">
+      <h2>Daily Sales</h2>
+      <table class="report-table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Orders</th>
+            <th>Revenue</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let day of report.dailySales">
+            <td>{{ day.date | date:'mediumDate' }}</td>
+            <td>{{ day.orders }}</td>
+            <td>₹{{ day.revenue | number:'1.0-2' }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

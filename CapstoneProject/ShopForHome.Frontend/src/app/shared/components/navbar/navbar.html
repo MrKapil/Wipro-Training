@@ -1,0 +1,67 @@
+<nav class="navbar">
+  <div class="container">
+    <!-- Logo/Brand -->
+    <div class="navbar-brand" (click)="goToHome()">
+      <span class="logo-icon">🏠</span>
+      <span class="brand-text">ShopForHome</span>
+    </div>
+
+    <!-- Main Navigation -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" class="nav-link">
+          Home
+        </a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="/products" routerLinkActive="active" class="nav-link">
+          Products
+        </a>
+      </li>
+      <li class="nav-item" *ngIf="isLoggedIn">
+        <a routerLink="/wishlist" routerLinkActive="active" class="nav-link">
+          <span class="icon">❤️</span> Wishlist
+        </a>
+      </li>
+      <li class="nav-item" *ngIf="isLoggedIn">
+        <a routerLink="/orders/history" routerLinkActive="active" class="nav-link">
+          My Orders
+        </a>
+      </li>
+      <li class="nav-item" *ngIf="isAdmin">
+        <a routerLink="/admin" routerLinkActive="active" class="nav-link">
+          <span class="icon">⚙️</span> Admin
+        </a>
+      </li>
+    </ul>
+
+    <!-- Right Side Menu -->
+    <div class="navbar-right">
+      <!-- Cart -->
+      <div class="cart-menu" *ngIf="isLoggedIn">
+        <a routerLink="/cart" routerLinkActive="active" class="cart-link">
+          <span class="icon">🛒</span>
+          <span class="cart-text">Cart</span>
+          <span class="cart-badge" *ngIf="cartItemCount$ | async as count">{{ count }}</span>
+        </a>
+      </div>
+
+      <!-- Auth Menu -->
+      <div class="auth-menu">
+        <!-- Not Logged In -->
+        <div class="guest-links" *ngIf="!isLoggedIn">
+          <a routerLink="/login" routerLinkActive="active" class="btn btn-outline">Login</a>
+          <a routerLink="/register" routerLinkActive="active" class="btn btn-primary">Register</a>
+        </div>
+        
+        <!-- Logged In -->
+        <div class="user-menu" *ngIf="isLoggedIn">
+          <span class="welcome-text">Hello, {{ userName }}</span>
+            <button (click)="logout()" *ngIf="authService.isLoggedIn()" class="logout-btn">
+            <span class="icon">🚪</span> Logout
+            </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

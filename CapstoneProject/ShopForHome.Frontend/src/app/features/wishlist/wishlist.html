@@ -1,0 +1,37 @@
+<div class="wishlist-container">
+  <h2>❤️ Your Wishlist</h2>
+
+  <div *ngIf="loading" class="loading">
+    Loading wishlist...
+  </div>
+
+  <div *ngIf="!loading && wishlistItems.length === 0" class="empty-wishlist">
+    <p>Your wishlist is empty!</p>
+    <a routerLink="/products" class="continue-shopping">Browse Products</a>
+  </div>
+
+  <div *ngIf="!loading && wishlistItems.length > 0" class="wishlist-grid">
+    <div *ngFor="let item of wishlistItems" class="wishlist-item">
+      <img [src]="getImageUrl(item.imageFileName)" [alt]="item.name">
+      
+      <div class="item-info">
+        <h4>{{ item.name }}</h4>
+        <p class="item-price">{{ item.price | currency:'INR':'symbol':'1.0-2' }}</p>
+        <p class="item-category">{{ item.category }}</p>
+        <p class="item-rating" *ngIf="item.rating">⭐ {{ item.rating }}/5</p>
+      </div>
+
+      <div class="item-actions">
+        <button (click)="moveToCart(item)" class="move-to-cart">
+          🛒 Move to Cart
+        </button>
+        <button (click)="removeFromWishlist(item.productId)" class="remove-btn">
+          Remove
+        </button>
+        <a [routerLink]="['/products', item.productId]" class="view-details">
+          View Details
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
